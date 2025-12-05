@@ -14,7 +14,7 @@ st.markdown("### AI-Powered PR Story Mapping & Risk Prediction")
 # Sidebar - Backend Status
 st.sidebar.title("🔌 System Status")
 try:
-    response = requests.get("http://127.0.0.1:5000/status", timeout=5)
+    response = requests.get("https://sprintmind-backend.onrender.com", timeout=5)
     if response.status_code == 200:
         st.sidebar.success("✅ Backend Online")
     else:
