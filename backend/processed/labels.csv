@@ -1,0 +1,1001 @@
+pr_id,issue_id,pr_title,issue_title,similarity,label
+7091,7031,bump github/codeql-action from 4.30.8 to 4.31.5,"ai bug analysis: readtimeout exception httpsconnectionpool host='domain.com', po",0.16434540389972144,1
+7091,6833,bump github/codeql-action from 4.30.8 to 4.31.5,lack of respect for questions and support requests,0.1456953642384106,1
+7091,7045,bump github/codeql-action from 4.30.8 to 4.31.5,about connection release when maintaining sessions,0.1291390728476821,1
+7091,6794,bump github/codeql-action from 4.30.8 to 4.31.5,requests changes the url on get,0.11258278145695365,0
+7091,6730,bump github/codeql-action from 4.30.8 to 4.31.5,certificate loading regression with httpadapters in 2.32.3,0.10264900662251655,0
+7091,6815,bump github/codeql-action from 4.30.8 to 4.31.5,handle permissionerror when importing adapter.py,0.09933774834437085,0
+7091,6542,bump github/codeql-action from 4.30.8 to 4.31.5,cookies with are not sent for via unencrypted,0.09933774834437085,0
+7091,7047,bump github/codeql-action from 4.30.8 to 4.31.5,add response status code to httperror exception,0.09602649006622517,0
+7091,7048,bump github/codeql-action from 4.30.8 to 4.31.5,"cloudflare blocks my api bot, but not when i use",0.09271523178807947,0
+7091,2766,bump github/codeql-action from 4.30.8 to 4.31.5,document threading contract for session class,0.08940397350993377,0
+7098,7079,kimi-v1,feature request: add built-in logger hooks for all http requests and responses,0.06741573033707865,0
+7098,6809,kimi-v1,retry hangs indefinitely for 503 status code,0.0449438202247191,0
+7098,7045,kimi-v1,about connection release when maintaining sessions,0.03731343283582089,0
+7098,7039,kimi-v1,type hint needed,0.033707865168539325,0
+7098,7033,kimi-v1,requests with self signed certs broken,0.030927835051546393,0
+7098,6794,kimi-v1,requests changes the url on get,0.030927835051546393,0
+7098,7047,kimi-v1,add response status code to httperror exception,0.02857142857142857,0
+7098,2766,kimi-v1,document threading contract for session class,0.027522935779816515,0
+7098,7029,kimi-v1,"one request fails, but others don't; it also succeeds in terminal",0.026785714285714284,0
+7098,6835,kimi-v1,why requests.session doesn't send stored cookie?,0.02247191011235955,0
+7097,6835,kimi-v1,why requests.session doesn't send stored cookie?,0.04878048780487805,0
+7097,7024,kimi-v1,about request.session,0.018867924528301886,0
+7097,6804,kimi-v1,xml gets shortened when submitting a post request,0.015873015873015872,0
+7097,7079,kimi-v1,feature request: add built-in logger hooks for all http requests and responses,0.014705882352941176,0
+7097,7033,kimi-v1,requests with self signed certs broken,0.010309278350515464,0
+7097,2766,kimi-v1,document threading contract for session class,0.009174311926605505,0
+7097,7045,kimi-v1,about connection release when maintaining sessions,0.007462686567164179,0
+7097,7031,kimi-v1,"ai bug analysis: readtimeout exception httpsconnectionpool host='domain.com', po",0.005571030640668524,0
+7097,6833,kimi-v1,lack of respect for questions and support requests,0.0,0
+7097,6823,kimi-v1,chunked put using a generator function...,0.0,0
+7094,6751,catch assertionerror on malformed url with proxy as invalidurl,requests 2.31.0 - unhashable type 'list' for 'cert' parameter,0.17142857142857143,1
+7094,7018,catch assertionerror on malformed url with proxy as invalidurl,remove unused argument from urllib3 request context,0.10638297872340426,1
+7094,6775,catch assertionerror on malformed url with proxy as invalidurl,with setuptools 72.0.0 requests can no longer be installed from git,0.09836065573770492,0
+7094,6835,catch assertionerror on malformed url with proxy as invalidurl,why requests.session doesn't send stored cookie?,0.0975609756097561,0
+7094,6730,catch assertionerror on malformed url with proxy as invalidurl,certificate loading regression with httpadapters in 2.32.3,0.09375,0
+7094,7028,catch assertionerror on malformed url with proxy as invalidurl,tor request,0.08571428571428572,0
+7094,7006,catch assertionerror on malformed url with proxy as invalidurl,modulenotfounderror,0.08571428571428572,0
+7094,6699,catch assertionerror on malformed url with proxy as invalidurl,attributeerror: 'nonetype' object has no attribute 'setdefault' on environment p,0.08108108108108109,0
+7094,7047,catch assertionerror on malformed url with proxy as invalidurl,add response status code to httperror exception,0.07857142857142857,0
+7094,6542,catch assertionerror on malformed url with proxy as invalidurl,cookies with are not sent for via unencrypted,0.07317073170731707,0
+7075,6794,fix ssl verification precedence: respect session.verify when method verify param,requests changes the url on get,0.17964071856287425,1
+7075,6833,fix ssl verification precedence: respect session.verify when method verify param,lack of respect for questions and support requests,0.17365269461077845,1
+7075,7045,fix ssl verification precedence: respect session.verify when method verify param,about connection release when maintaining sessions,0.17365269461077845,1
+7075,7048,fix ssl verification precedence: respect session.verify when method verify param,"cloudflare blocks my api bot, but not when i use",0.16766467065868262,0
+7075,7031,fix ssl verification precedence: respect session.verify when method verify param,"ai bug analysis: readtimeout exception httpsconnectionpool host='domain.com', po",0.1671309192200557,0
+7075,6730,fix ssl verification precedence: respect session.verify when method verify param,certificate loading regression with httpadapters in 2.32.3,0.1497005988023952,0
+7075,2766,fix ssl verification precedence: respect session.verify when method verify param,document threading contract for session class,0.1317365269461078,0
+7075,7047,fix ssl verification precedence: respect session.verify when method verify param,add response status code to httperror exception,0.1317365269461078,0
+7075,6823,fix ssl verification precedence: respect session.verify when method verify param,chunked put using a generator function...,0.11377245508982035,0
+7075,6815,fix ssl verification precedence: respect session.verify when method verify param,handle permissionerror when importing adapter.py,0.11377245508982035,0
+7070,7045,fix: respect user-defined proxy settings during redirects,about connection release when maintaining sessions,0.21764705882352942,1
+7070,6794,fix: respect user-defined proxy settings during redirects,requests changes the url on get,0.16470588235294117,1
+7070,6833,fix: respect user-defined proxy settings during redirects,lack of respect for questions and support requests,0.1588235294117647,1
+7070,7031,fix: respect user-defined proxy settings during redirects,"ai bug analysis: readtimeout exception httpsconnectionpool host='domain.com', po",0.15877437325905291,0
+7070,7047,fix: respect user-defined proxy settings during redirects,add response status code to httperror exception,0.14705882352941177,0
+7070,6730,fix: respect user-defined proxy settings during redirects,certificate loading regression with httpadapters in 2.32.3,0.12941176470588237,0
+7070,6542,fix: respect user-defined proxy settings during redirects,cookies with are not sent for via unencrypted,0.12941176470588237,0
+7070,6815,fix: respect user-defined proxy settings during redirects,handle permissionerror when importing adapter.py,0.12352941176470589,0
+7070,7048,fix: respect user-defined proxy settings during redirects,"cloudflare blocks my api bot, but not when i use",0.12352941176470589,0
+7070,6809,fix: respect user-defined proxy settings during redirects,retry hangs indefinitely for 503 status code,0.12352941176470589,0
+7087,7031,bump github/codeql-action from 4.30.8 to 4.31.3,"ai bug analysis: readtimeout exception httpsconnectionpool host='domain.com', po",0.17827298050139276,1
+7087,6833,bump github/codeql-action from 4.30.8 to 4.31.3,lack of respect for questions and support requests,0.13662790697674418,1
+7087,7045,bump github/codeql-action from 4.30.8 to 4.31.3,about connection release when maintaining sessions,0.11627906976744186,1
+7087,6794,bump github/codeql-action from 4.30.8 to 4.31.3,requests changes the url on get,0.10174418604651163,0
+7087,6730,bump github/codeql-action from 4.30.8 to 4.31.3,certificate loading regression with httpadapters in 2.32.3,0.09883720930232558,0
+7087,7047,bump github/codeql-action from 4.30.8 to 4.31.3,add response status code to httperror exception,0.09593023255813954,0
+7087,6815,bump github/codeql-action from 4.30.8 to 4.31.3,handle permissionerror when importing adapter.py,0.09302325581395349,0
+7087,6542,bump github/codeql-action from 4.30.8 to 4.31.3,cookies with are not sent for via unencrypted,0.09011627906976744,0
+7087,2766,bump github/codeql-action from 4.30.8 to 4.31.3,document threading contract for session class,0.08139534883720931,0
+7087,7048,bump github/codeql-action from 4.30.8 to 4.31.3,"cloudflare blocks my api bot, but not when i use",0.08139534883720931,0
+7067,7047,feat: add urllib3 urlopen kwargs to httpadapter for custom url open arguments,add response status code to httperror exception,0.2185430463576159,1
+7067,7045,feat: add urllib3 urlopen kwargs to httpadapter for custom url open arguments,about connection release when maintaining sessions,0.17218543046357615,1
+7067,6794,feat: add urllib3 urlopen kwargs to httpadapter for custom url open arguments,requests changes the url on get,0.15894039735099338,1
+7067,6833,feat: add urllib3 urlopen kwargs to httpadapter for custom url open arguments,lack of respect for questions and support requests,0.15625,0
+7067,6730,feat: add urllib3 urlopen kwargs to httpadapter for custom url open arguments,certificate loading regression with httpadapters in 2.32.3,0.1456953642384106,0
+7067,7048,feat: add urllib3 urlopen kwargs to httpadapter for custom url open arguments,"cloudflare blocks my api bot, but not when i use",0.12582781456953643,0
+7067,6809,feat: add urllib3 urlopen kwargs to httpadapter for custom url open arguments,retry hangs indefinitely for 503 status code,0.12582781456953643,0
+7067,7031,feat: add urllib3 urlopen kwargs to httpadapter for custom url open arguments,"ai bug analysis: readtimeout exception httpsconnectionpool host='domain.com', po",0.11977715877437325,0
+7067,2766,feat: add urllib3 urlopen kwargs to httpadapter for custom url open arguments,document threading contract for session class,0.11920529801324503,0
+7067,6775,feat: add urllib3 urlopen kwargs to httpadapter for custom url open arguments,with setuptools 72.0.0 requests can no longer be installed from git,0.11920529801324503,0
+7089,6730,fix sphinx reference warnings by suppressing missing targets,certificate loading regression with httpadapters in 2.32.3,0.15625,1
+7089,6809,fix sphinx reference warnings by suppressing missing targets,retry hangs indefinitely for 503 status code,0.1511627906976744,1
+7089,6823,fix sphinx reference warnings by suppressing missing targets,chunked put using a generator function...,0.14772727272727273,1
+7089,6542,fix sphinx reference warnings by suppressing missing targets,cookies with are not sent for via unencrypted,0.14634146341463414,0
+7089,7018,fix sphinx reference warnings by suppressing missing targets,remove unused argument from urllib3 request context,0.14102564102564102,0
+7089,6794,fix sphinx reference warnings by suppressing missing targets,requests changes the url on get,0.13402061855670103,0
+7089,7048,fix sphinx reference warnings by suppressing missing targets,"cloudflare blocks my api bot, but not when i use",0.13095238095238096,0
+7089,6815,fix sphinx reference warnings by suppressing missing targets,handle permissionerror when importing adapter.py,0.13043478260869565,0
+7089,2766,fix sphinx reference warnings by suppressing missing targets,document threading contract for session class,0.12844036697247707,0
+7089,7001,fix sphinx reference warnings by suppressing missing targets,dynamic import causing filenotfounderror in shrinkwrapped applications after dep,0.1282051282051282,0
+7081,7031,bump github/codeql-action from 4.30.8 to 4.31.2,"ai bug analysis: readtimeout exception httpsconnectionpool host='domain.com', po",0.1894150417827298,1
+7081,6833,bump github/codeql-action from 4.30.8 to 4.31.2,lack of respect for questions and support requests,0.1339031339031339,1
+7081,7045,bump github/codeql-action from 4.30.8 to 4.31.2,about connection release when maintaining sessions,0.11396011396011396,1
+7081,6794,bump github/codeql-action from 4.30.8 to 4.31.2,requests changes the url on get,0.09971509971509972,0
+7081,6815,bump github/codeql-action from 4.30.8 to 4.31.2,handle permissionerror when importing adapter.py,0.09401709401709402,0
+7081,6730,bump github/codeql-action from 4.30.8 to 4.31.2,certificate loading regression with httpadapters in 2.32.3,0.09401709401709402,0
+7081,6542,bump github/codeql-action from 4.30.8 to 4.31.2,cookies with are not sent for via unencrypted,0.09116809116809117,0
+7081,2766,bump github/codeql-action from 4.30.8 to 4.31.2,document threading contract for session class,0.08547008547008547,0
+7081,7047,bump github/codeql-action from 4.30.8 to 4.31.2,add response status code to httperror exception,0.08262108262108261,0
+7081,6809,bump github/codeql-action from 4.30.8 to 4.31.2,retry hangs indefinitely for 503 status code,0.07977207977207977,0
+7086,7033,cn.1769527629592791:cc544b1dc3ea1b17b0cce22af336ba66 6916de84e5646e35988ef632.69,requests with self signed certs broken,0.05102040816326531,0
+7086,7047,cn.1769527629592791:cc544b1dc3ea1b17b0cce22af336ba66 6916de84e5646e35988ef632.69,add response status code to httperror exception,0.04285714285714286,0
+7086,6804,cn.1769527629592791:cc544b1dc3ea1b17b0cce22af336ba66 6916de84e5646e35988ef632.69,xml gets shortened when submitting a post request,0.04081632653061224,0
+7086,7045,cn.1769527629592791:cc544b1dc3ea1b17b0cce22af336ba66 6916de84e5646e35988ef632.69,about connection release when maintaining sessions,0.03731343283582089,0
+7086,7079,cn.1769527629592791:cc544b1dc3ea1b17b0cce22af336ba66 6916de84e5646e35988ef632.69,feature request: add built-in logger hooks for all http requests and responses,0.030612244897959183,0
+7086,7048,cn.1769527629592791:cc544b1dc3ea1b17b0cce22af336ba66 6916de84e5646e35988ef632.69,"cloudflare blocks my api bot, but not when i use",0.030612244897959183,0
+7086,6809,cn.1769527629592791:cc544b1dc3ea1b17b0cce22af336ba66 6916de84e5646e35988ef632.69,retry hangs indefinitely for 503 status code,0.030612244897959183,0
+7086,6835,cn.1769527629592791:cc544b1dc3ea1b17b0cce22af336ba66 6916de84e5646e35988ef632.69,why requests.session doesn't send stored cookie?,0.02040816326530612,0
+7086,6823,cn.1769527629592791:cc544b1dc3ea1b17b0cce22af336ba66 6916de84e5646e35988ef632.69,chunked put using a generator function...,0.02040816326530612,0
+7086,6815,cn.1769527629592791:cc544b1dc3ea1b17b0cce22af336ba66 6916de84e5646e35988ef632.69,handle permissionerror when importing adapter.py,0.02040816326530612,0
+6824,7018,remove old macos runners,remove unused argument from urllib3 request context,0.14893617021276595,1
+6824,7028,remove old macos runners,tor request,0.14285714285714285,1
+6824,6699,remove old macos runners,attributeerror: 'nonetype' object has no attribute 'setdefault' on environment p,0.13513513513513514,1
+6824,7001,remove old macos runners,dynamic import causing filenotfounderror in shrinkwrapped applications after dep,0.109375,0
+6824,6807,remove old macos runners,what is the point of this line?,0.09523809523809523,0
+6824,7039,remove old macos runners,type hint needed,0.09523809523809523,0
+6824,6751,remove old macos runners,requests 2.31.0 - unhashable type 'list' for 'cert' parameter,0.08571428571428572,0
+6824,7048,remove old macos runners,"cloudflare blocks my api bot, but not when i use",0.08333333333333333,0
+6824,6804,remove old macos runners,xml gets shortened when submitting a post request,0.07936507936507936,0
+6824,7024,remove old macos runners,about request.session,0.07547169811320754,0
+6822,7079,add http status group properties for response objects,feature request: add built-in logger hooks for all http requests and responses,0.16176470588235295,1
+6822,7001,add http status group properties for response objects,dynamic import causing filenotfounderror in shrinkwrapped applications after dep,0.125,1
+6822,6751,add http status group properties for response objects,requests 2.31.0 - unhashable type 'list' for 'cert' parameter,0.12,1
+6822,7018,add http status group properties for response objects,remove unused argument from urllib3 request context,0.12,0
+6822,7048,add http status group properties for response objects,"cloudflare blocks my api bot, but not when i use",0.11904761904761904,0
+6822,6954,add http status group properties for response objects,class headerdict rest requests.packages.urllib3. collections.httpheaderdict : at,0.1111111111111111,0
+6822,6809,add http status group properties for response objects,retry hangs indefinitely for 503 status code,0.10465116279069768,0
+6822,6730,add http status group properties for response objects,certificate loading regression with httpadapters in 2.32.3,0.10416666666666667,0
+6822,7047,add http status group properties for response objects,add response status code to httperror exception,0.1,0
+6822,7029,add http status group properties for response objects,"one request fails, but others don't; it also succeeds in terminal",0.09821428571428571,0
+6821,7033,alert autofix 1,requests with self signed certs broken,0.010309278350515464,0
+6821,6835,alert autofix 1,why requests.session doesn't send stored cookie?,0.0,0
+6821,6833,alert autofix 1,lack of respect for questions and support requests,0.0,0
+6821,6823,alert autofix 1,chunked put using a generator function...,0.0,0
+6821,2766,alert autofix 1,document threading contract for session class,0.0,0
+6821,7079,alert autofix 1,feature request: add built-in logger hooks for all http requests and responses,0.0,0
+6821,6804,alert autofix 1,xml gets shortened when submitting a post request,0.0,0
+6821,6815,alert autofix 1,handle permissionerror when importing adapter.py,0.0,0
+6821,7055,alert autofix 1,"could not find a suitable tls ca certificate bundle, invalid path: /agents/pytho",0.0,0
+6821,7048,alert autofix 1,"cloudflare blocks my api bot, but not when i use",0.0,0
+7082,7047,refactor and modernize requests.cookies utility methods,add response status code to httperror exception,0.15813953488372093,1
+7082,6794,refactor and modernize requests.cookies utility methods,requests changes the url on get,0.13023255813953488,1
+7082,6833,refactor and modernize requests.cookies utility methods,lack of respect for questions and support requests,0.11627906976744186,1
+7082,7031,refactor and modernize requests.cookies utility methods,"ai bug analysis: readtimeout exception httpsconnectionpool host='domain.com', po",0.10863509749303621,0
+7082,7048,refactor and modernize requests.cookies utility methods,"cloudflare blocks my api bot, but not when i use",0.09767441860465116,0
+7082,6730,refactor and modernize requests.cookies utility methods,certificate loading regression with httpadapters in 2.32.3,0.09767441860465116,0
+7082,2766,refactor and modernize requests.cookies utility methods,document threading contract for session class,0.09302325581395349,0
+7082,7045,refactor and modernize requests.cookies utility methods,about connection release when maintaining sessions,0.08837209302325581,0
+7082,7029,refactor and modernize requests.cookies utility methods,"one request fails, but others don't; it also succeeds in terminal",0.08837209302325581,0
+7082,6542,refactor and modernize requests.cookies utility methods,cookies with are not sent for via unencrypted,0.08372093023255814,0
+6721,6699,v2.32.3,attributeerror: 'nonetype' object has no attribute 'setdefault' on environment p,0.16216216216216217,1
+6721,7028,v2.32.3,tor request,0.12121212121212122,1
+6721,6775,v2.32.3,with setuptools 72.0.0 requests can no longer be installed from git,0.11475409836065574,1
+6721,6751,v2.32.3,requests 2.31.0 - unhashable type 'list' for 'cert' parameter,0.11428571428571428,0
+6721,7018,v2.32.3,remove unused argument from urllib3 request context,0.10638297872340426,0
+6721,6730,v2.32.3,certificate loading regression with httpadapters in 2.32.3,0.10416666666666667,0
+6721,6647,v2.32.3,wrong ca certificates used in requests.session.send,0.1,0
+6721,6954,v2.32.3,class headerdict rest requests.packages.urllib3. collections.httpheaderdict : at,0.09722222222222222,0
+6721,6809,v2.32.3,retry hangs indefinitely for 503 status code,0.09302325581395349,0
+6721,7039,v2.32.3,type hint needed,0.09090909090909091,0
+6724,7018,don't create default sslcontext if ssl module isn't present,remove unused argument from urllib3 request context,0.2222222222222222,1
+6724,6775,don't create default sslcontext if ssl module isn't present,with setuptools 72.0.0 requests can no longer be installed from git,0.18032786885245902,1
+6724,7001,don't create default sslcontext if ssl module isn't present,dynamic import causing filenotfounderror in shrinkwrapped applications after dep,0.171875,1
+6724,6730,don't create default sslcontext if ssl module isn't present,certificate loading regression with httpadapters in 2.32.3,0.16666666666666666,0
+6724,6809,don't create default sslcontext if ssl module isn't present,retry hangs indefinitely for 503 status code,0.16279069767441862,0
+6724,6542,don't create default sslcontext if ssl module isn't present,cookies with are not sent for via unencrypted,0.15853658536585366,0
+6724,6800,don't create default sslcontext if ssl module isn't present,attributeerror: 'request' object has no attribute 'authorize',0.14814814814814814,0
+6724,6699,don't create default sslcontext if ssl module isn't present,attributeerror: 'nonetype' object has no attribute 'setdefault' on environment p,0.14814814814814814,0
+6724,6794,don't create default sslcontext if ssl module isn't present,requests changes the url on get,0.14432989690721648,0
+6724,6804,don't create default sslcontext if ssl module isn't present,xml gets shortened when submitting a post request,0.14285714285714285,0
+7066,6794,feat: add ipv4 and ipv6 address validation utilities with comprehensive test cov,requests changes the url on get,0.11570247933884298,1
+7066,7047,feat: add ipv4 and ipv6 address validation utilities with comprehensive test cov,add response status code to httperror exception,0.11428571428571428,1
+7066,6833,feat: add ipv4 and ipv6 address validation utilities with comprehensive test cov,lack of respect for questions and support requests,0.1,0
+7066,7079,feat: add ipv4 and ipv6 address validation utilities with comprehensive test cov,feature request: add built-in logger hooks for all http requests and responses,0.09090909090909091,0
+7066,7045,feat: add ipv4 and ipv6 address validation utilities with comprehensive test cov,about connection release when maintaining sessions,0.08955223880597014,0
+7066,7031,feat: add ipv4 and ipv6 address validation utilities with comprehensive test cov,"ai bug analysis: readtimeout exception httpsconnectionpool host='domain.com', po",0.08635097493036212,0
+7066,6954,feat: add ipv4 and ipv6 address validation utilities with comprehensive test cov,class headerdict rest requests.packages.urllib3. collections.httpheaderdict : at,0.08264462809917356,0
+7066,2766,feat: add ipv4 and ipv6 address validation utilities with comprehensive test cov,document threading contract for session class,0.0743801652892562,0
+7066,6730,feat: add ipv4 and ipv6 address validation utilities with comprehensive test cov,certificate loading regression with httpadapters in 2.32.3,0.0743801652892562,0
+7066,7029,feat: add ipv4 and ipv6 address validation utilities with comprehensive test cov,"one request fails, but others don't; it also succeeds in terminal",0.0743801652892562,0
+7072,7031,bump github/codeql-action from 4.30.8 to 4.31.0,"ai bug analysis: readtimeout exception httpsconnectionpool host='domain.com', po",0.19220055710306408,1
+7072,6833,bump github/codeql-action from 4.30.8 to 4.31.0,lack of respect for questions and support requests,0.13428571428571429,1
+7072,7045,bump github/codeql-action from 4.30.8 to 4.31.0,about connection release when maintaining sessions,0.11428571428571428,1
+7072,6794,bump github/codeql-action from 4.30.8 to 4.31.0,requests changes the url on get,0.09428571428571429,0
+7072,6815,bump github/codeql-action from 4.30.8 to 4.31.0,handle permissionerror when importing adapter.py,0.09142857142857143,0
+7072,6730,bump github/codeql-action from 4.30.8 to 4.31.0,certificate loading regression with httpadapters in 2.32.3,0.09142857142857143,0
+7072,6542,bump github/codeql-action from 4.30.8 to 4.31.0,cookies with are not sent for via unencrypted,0.08857142857142856,0
+7072,7047,bump github/codeql-action from 4.30.8 to 4.31.0,add response status code to httperror exception,0.08571428571428572,0
+7072,2766,bump github/codeql-action from 4.30.8 to 4.31.0,document threading contract for session class,0.08285714285714285,0
+7072,6823,bump github/codeql-action from 4.30.8 to 4.31.0,chunked put using a generator function...,0.07714285714285714,0
+6820,6751,update vulnerability disclosure process,requests 2.31.0 - unhashable type 'list' for 'cert' parameter,0.1891891891891892,1
+6820,7018,update vulnerability disclosure process,remove unused argument from urllib3 request context,0.10638297872340426,1
+6820,6800,update vulnerability disclosure process,attributeerror: 'request' object has no attribute 'authorize',0.10416666666666667,1
+6820,6794,update vulnerability disclosure process,requests changes the url on get,0.10309278350515463,0
+6820,6775,update vulnerability disclosure process,with setuptools 72.0.0 requests can no longer be installed from git,0.09836065573770492,0
+6820,6542,update vulnerability disclosure process,cookies with are not sent for via unencrypted,0.0975609756097561,0
+6820,7048,update vulnerability disclosure process,"cloudflare blocks my api bot, but not when i use",0.09523809523809523,0
+6820,7024,update vulnerability disclosure process,about request.session,0.09433962264150944,0
+6820,6730,update vulnerability disclosure process,certificate loading regression with httpadapters in 2.32.3,0.09375,0
+6820,6809,update vulnerability disclosure process,retry hangs indefinitely for 503 status code,0.09302325581395349,0
+6667,7031,avoid reloading root certificates to improve concurrent performance,"ai bug analysis: readtimeout exception httpsconnectionpool host='domain.com', po",0.20055710306406685,1
+6667,6833,avoid reloading root certificates to improve concurrent performance,lack of respect for questions and support requests,0.1618705035971223,1
+6667,7045,avoid reloading root certificates to improve concurrent performance,about connection release when maintaining sessions,0.1510791366906475,1
+6667,2766,avoid reloading root certificates to improve concurrent performance,document threading contract for session class,0.1366906474820144,0
+6667,7048,avoid reloading root certificates to improve concurrent performance,"cloudflare blocks my api bot, but not when i use",0.13309352517985612,0
+6667,6794,avoid reloading root certificates to improve concurrent performance,requests changes the url on get,0.13309352517985612,0
+6667,6730,avoid reloading root certificates to improve concurrent performance,certificate loading regression with httpadapters in 2.32.3,0.12589928057553956,0
+6667,7047,avoid reloading root certificates to improve concurrent performance,add response status code to httperror exception,0.1079136690647482,0
+6667,6815,avoid reloading root certificates to improve concurrent performance,handle permissionerror when importing adapter.py,0.10071942446043165,0
+6667,6542,avoid reloading root certificates to improve concurrent performance,cookies with are not sent for via unencrypted,0.10071942446043165,0
+6818,7031,bump github/codeql-action from 3.26.0 to 3.27.0,"ai bug analysis: readtimeout exception httpsconnectionpool host='domain.com', po",0.17166212534059946,1
+6818,6833,bump github/codeql-action from 3.26.0 to 3.27.0,lack of respect for questions and support requests,0.12806539509536785,1
+6818,6730,bump github/codeql-action from 3.26.0 to 3.27.0,certificate loading regression with httpadapters in 2.32.3,0.1008174386920981,1
+6818,7045,bump github/codeql-action from 3.26.0 to 3.27.0,about connection release when maintaining sessions,0.09809264305177112,0
+6818,6794,bump github/codeql-action from 3.26.0 to 3.27.0,requests changes the url on get,0.08991825613079019,0
+6818,6542,bump github/codeql-action from 3.26.0 to 3.27.0,cookies with are not sent for via unencrypted,0.08719346049046321,0
+6818,2766,bump github/codeql-action from 3.26.0 to 3.27.0,document threading contract for session class,0.07901907356948229,0
+6818,7047,bump github/codeql-action from 3.26.0 to 3.27.0,add response status code to httperror exception,0.07901907356948229,0
+6818,6815,bump github/codeql-action from 3.26.0 to 3.27.0,handle permissionerror when importing adapter.py,0.07629427792915532,0
+6818,7048,bump github/codeql-action from 3.26.0 to 3.27.0,"cloudflare blocks my api bot, but not when i use",0.07629427792915532,0
+6817,6833,bump actions/setup-python from 5.2.0 to 5.3.0,lack of respect for questions and support requests,0.15425531914893617,1
+6817,7045,bump actions/setup-python from 5.2.0 to 5.3.0,about connection release when maintaining sessions,0.13829787234042554,1
+6817,2766,bump actions/setup-python from 5.2.0 to 5.3.0,document threading contract for session class,0.12234042553191489,1
+6817,6730,bump actions/setup-python from 5.2.0 to 5.3.0,certificate loading regression with httpadapters in 2.32.3,0.11702127659574468,0
+6817,6794,bump actions/setup-python from 5.2.0 to 5.3.0,requests changes the url on get,0.11702127659574468,0
+6817,7031,bump actions/setup-python from 5.2.0 to 5.3.0,"ai bug analysis: readtimeout exception httpsconnectionpool host='domain.com', po",0.10863509749303621,0
+6817,6815,bump actions/setup-python from 5.2.0 to 5.3.0,handle permissionerror when importing adapter.py,0.10638297872340426,0
+6817,7047,bump actions/setup-python from 5.2.0 to 5.3.0,add response status code to httperror exception,0.10638297872340426,0
+6817,6809,bump actions/setup-python from 5.2.0 to 5.3.0,retry hangs indefinitely for 503 status code,0.10106382978723404,0
+6817,6775,bump actions/setup-python from 5.2.0 to 5.3.0,with setuptools 72.0.0 requests can no longer be installed from git,0.10106382978723404,0
+7054,7047,feat: add comprehensive type hints and improve code quality across codebase,add response status code to httperror exception,0.15609756097560976,1
+7054,7045,feat: add comprehensive type hints and improve code quality across codebase,about connection release when maintaining sessions,0.13170731707317074,1
+7054,7031,feat: add comprehensive type hints and improve code quality across codebase,"ai bug analysis: readtimeout exception httpsconnectionpool host='domain.com', po",0.12813370473537605,1
+7054,6809,feat: add comprehensive type hints and improve code quality across codebase,retry hangs indefinitely for 503 status code,0.1073170731707317,0
+7054,6833,feat: add comprehensive type hints and improve code quality across codebase,lack of respect for questions and support requests,0.1024390243902439,0
+7054,6730,feat: add comprehensive type hints and improve code quality across codebase,certificate loading regression with httpadapters in 2.32.3,0.0975609756097561,0
+7054,6794,feat: add comprehensive type hints and improve code quality across codebase,requests changes the url on get,0.0975609756097561,0
+7054,7048,feat: add comprehensive type hints and improve code quality across codebase,"cloudflare blocks my api bot, but not when i use",0.09268292682926829,0
+7054,6823,feat: add comprehensive type hints and improve code quality across codebase,chunked put using a generator function...,0.08780487804878048,0
+7054,7079,feat: add comprehensive type hints and improve code quality across codebase,feature request: add built-in logger hooks for all http requests and responses,0.08292682926829269,0
+7052,7048,add json parameter support to put and patch methods,"cloudflare blocks my api bot, but not when i use",0.1650485436893204,1
+7052,7047,add json parameter support to put and patch methods,add response status code to httperror exception,0.15714285714285714,1
+7052,7079,add json parameter support to put and patch methods,feature request: add built-in logger hooks for all http requests and responses,0.14563106796116504,1
+7052,6730,add json parameter support to put and patch methods,certificate loading regression with httpadapters in 2.32.3,0.13592233009708737,0
+7052,7045,add json parameter support to put and patch methods,about connection release when maintaining sessions,0.13432835820895522,0
+7052,6809,add json parameter support to put and patch methods,retry hangs indefinitely for 503 status code,0.1262135922330097,0
+7052,6823,add json parameter support to put and patch methods,chunked put using a generator function...,0.11650485436893204,0
+7052,6815,add json parameter support to put and patch methods,handle permissionerror when importing adapter.py,0.11650485436893204,0
+7052,6794,add json parameter support to put and patch methods,requests changes the url on get,0.11650485436893204,0
+7052,6751,add json parameter support to put and patch methods,requests 2.31.0 - unhashable type 'list' for 'cert' parameter,0.11650485436893204,0
+7049,7047,add json parameter support to put and patch methods,add response status code to httperror exception,0.16551724137931034,1
+7049,7045,add json parameter support to put and patch methods,about connection release when maintaining sessions,0.16551724137931034,1
+7049,6833,add json parameter support to put and patch methods,lack of respect for questions and support requests,0.13125,1
+7049,7031,add json parameter support to put and patch methods,"ai bug analysis: readtimeout exception httpsconnectionpool host='domain.com', po",0.12534818941504178,0
+7049,7048,add json parameter support to put and patch methods,"cloudflare blocks my api bot, but not when i use",0.12413793103448276,0
+7049,7079,add json parameter support to put and patch methods,feature request: add built-in logger hooks for all http requests and responses,0.11724137931034483,0
+7049,6794,add json parameter support to put and patch methods,requests changes the url on get,0.11724137931034483,0
+7049,6730,add json parameter support to put and patch methods,certificate loading regression with httpadapters in 2.32.3,0.10344827586206896,0
+7049,7029,add json parameter support to put and patch methods,"one request fails, but others don't; it also succeeds in terminal",0.10344827586206896,0
+7049,6823,add json parameter support to put and patch methods,chunked put using a generator function...,0.09655172413793103,0
+6811,7028,merge pull request 1 from psf/main,tor request,0.05,0
+6811,7018,merge pull request 1 from psf/main,remove unused argument from urllib3 request context,0.0425531914893617,0
+6811,7006,merge pull request 1 from psf/main,modulenotfounderror,0.03571428571428571,0
+6811,6751,merge pull request 1 from psf/main,requests 2.31.0 - unhashable type 'list' for 'cert' parameter,0.02857142857142857,0
+6811,6647,merge pull request 1 from psf/main,wrong ca certificates used in requests.session.send,0.016666666666666666,0
+6811,6775,merge pull request 1 from psf/main,with setuptools 72.0.0 requests can no longer be installed from git,0.01639344262295082,0
+6811,6804,merge pull request 1 from psf/main,xml gets shortened when submitting a post request,0.015873015873015872,0
+6811,7001,merge pull request 1 from psf/main,dynamic import causing filenotfounderror in shrinkwrapped applications after dep,0.015625,0
+6811,7045,merge pull request 1 from psf/main,about connection release when maintaining sessions,0.014925373134328358,0
+6811,7079,merge pull request 1 from psf/main,feature request: add built-in logger hooks for all http requests and responses,0.014705882352941176,0
+7038,6807,docs: improve sentence style in readme.md,what is the point of this line?,0.13333333333333333,1
+7038,7039,docs: improve sentence style in readme.md,type hint needed,0.13333333333333333,1
+7038,6751,docs: improve sentence style in readme.md,requests 2.31.0 - unhashable type 'list' for 'cert' parameter,0.11428571428571428,1
+7038,7028,docs: improve sentence style in readme.md,tor request,0.1,0
+7038,7018,docs: improve sentence style in readme.md,remove unused argument from urllib3 request context,0.0851063829787234,0
+7038,7027,docs: improve sentence style in readme.md,@ziavai777,0.06666666666666667,0
+7038,6542,docs: improve sentence style in readme.md,cookies with are not sent for via unencrypted,0.06097560975609756,0
+7038,7079,docs: improve sentence style in readme.md,feature request: add built-in logger hooks for all http requests and responses,0.058823529411764705,0
+7038,6809,docs: improve sentence style in readme.md,retry hangs indefinitely for 503 status code,0.05813953488372093,0
+7038,6954,docs: improve sentence style in readme.md,class headerdict rest requests.packages.urllib3. collections.httpheaderdict : at,0.05555555555555555,0
+7042,7031,bump github/codeql-action from 3.30.0 to 4.30.8,"ai bug analysis: readtimeout exception httpsconnectionpool host='domain.com', po",0.17270194986072424,1
+7042,6833,bump github/codeql-action from 3.30.0 to 4.30.8,lack of respect for questions and support requests,0.13479623824451412,1
+7042,7045,bump github/codeql-action from 3.30.0 to 4.30.8,about connection release when maintaining sessions,0.109717868338558,1
+7042,6730,bump github/codeql-action from 3.30.0 to 4.30.8,certificate loading regression with httpadapters in 2.32.3,0.09717868338557993,0
+7042,6815,bump github/codeql-action from 3.30.0 to 4.30.8,handle permissionerror when importing adapter.py,0.09404388714733543,0
+7042,6794,bump github/codeql-action from 3.30.0 to 4.30.8,requests changes the url on get,0.09404388714733543,0
+7042,6542,bump github/codeql-action from 3.30.0 to 4.30.8,cookies with are not sent for via unencrypted,0.09404388714733543,0
+7042,2766,bump github/codeql-action from 3.30.0 to 4.30.8,document threading contract for session class,0.0877742946708464,0
+7042,6809,bump github/codeql-action from 3.30.0 to 4.30.8,retry hangs indefinitely for 503 status code,0.08463949843260188,0
+7042,7047,bump github/codeql-action from 3.30.0 to 4.30.8,add response status code to httperror exception,0.08150470219435736,0
+7030,7045,feat: add new classification for single leaf key,about connection release when maintaining sessions,0.18439716312056736,1
+7030,2766,feat: add new classification for single leaf key,document threading contract for session class,0.1702127659574468,1
+7030,7047,feat: add new classification for single leaf key,add response status code to httperror exception,0.1702127659574468,1
+7030,6833,feat: add new classification for single leaf key,lack of respect for questions and support requests,0.15625,0
+7030,7048,feat: add new classification for single leaf key,"cloudflare blocks my api bot, but not when i use",0.15602836879432624,0
+7030,6730,feat: add new classification for single leaf key,certificate loading regression with httpadapters in 2.32.3,0.15602836879432624,0
+7030,6794,feat: add new classification for single leaf key,requests changes the url on get,0.1347517730496454,0
+7030,7031,feat: add new classification for single leaf key,"ai bug analysis: readtimeout exception httpsconnectionpool host='domain.com', po",0.12813370473537605,0
+7030,6815,feat: add new classification for single leaf key,handle permissionerror when importing adapter.py,0.1276595744680851,0
+7030,7018,feat: add new classification for single leaf key,remove unused argument from urllib3 request context,0.12056737588652482,0
+6655,7018,use tls settings in selecting connection pool,remove unused argument from urllib3 request context,0.19148936170212766,1
+6655,6751,use tls settings in selecting connection pool,requests 2.31.0 - unhashable type 'list' for 'cert' parameter,0.16666666666666666,1
+6655,6775,use tls settings in selecting connection pool,with setuptools 72.0.0 requests can no longer be installed from git,0.16393442622950818,1
+6655,6699,use tls settings in selecting connection pool,attributeerror: 'nonetype' object has no attribute 'setdefault' on environment p,0.16216216216216217,0
+6655,6542,use tls settings in selecting connection pool,cookies with are not sent for via unencrypted,0.14634146341463414,0
+6655,7055,use tls settings in selecting connection pool,"could not find a suitable tls ca certificate bundle, invalid path: /agents/pytho",0.1388888888888889,0
+6655,7028,use tls settings in selecting connection pool,tor request,0.1388888888888889,0
+6655,6647,use tls settings in selecting connection pool,wrong ca certificates used in requests.session.send,0.13333333333333333,0
+6655,7001,use tls settings in selecting connection pool,dynamic import causing filenotfounderror in shrinkwrapped applications after dep,0.125,0
+6655,6794,use tls settings in selecting connection pool,requests changes the url on get,0.12371134020618557,0
+6716,6751,allow for overriding of specific pool key params,requests 2.31.0 - unhashable type 'list' for 'cert' parameter,0.17142857142857143,1
+6716,7018,allow for overriding of specific pool key params,remove unused argument from urllib3 request context,0.1276595744680851,1
+6716,6807,allow for overriding of specific pool key params,what is the point of this line?,0.10714285714285714,1
+6716,7028,allow for overriding of specific pool key params,tor request,0.10714285714285714,0
+6716,7006,allow for overriding of specific pool key params,modulenotfounderror,0.10714285714285714,0
+6716,6794,allow for overriding of specific pool key params,requests changes the url on get,0.10309278350515463,0
+6716,6542,allow for overriding of specific pool key params,cookies with are not sent for via unencrypted,0.0975609756097561,0
+6716,6775,allow for overriding of specific pool key params,with setuptools 72.0.0 requests can no longer be installed from git,0.08196721311475409,0
+6716,6809,allow for overriding of specific pool key params,retry hangs indefinitely for 503 status code,0.08139534883720931,0
+6716,6699,allow for overriding of specific pool key params,attributeerror: 'nonetype' object has no attribute 'setdefault' on environment p,0.08108108108108109,0
+6803,6833,bump actions/checkout from 4.1.0 to 4.2.0,lack of respect for questions and support requests,0.13636363636363635,1
+6803,7031,bump actions/checkout from 4.1.0 to 4.2.0,"ai bug analysis: readtimeout exception httpsconnectionpool host='domain.com', po",0.12534818941504178,1
+6803,7045,bump actions/checkout from 4.1.0 to 4.2.0,about connection release when maintaining sessions,0.10984848484848485,1
+6803,6794,bump actions/checkout from 4.1.0 to 4.2.0,requests changes the url on get,0.10227272727272728,0
+6803,2766,bump actions/checkout from 4.1.0 to 4.2.0,document threading contract for session class,0.09848484848484848,0
+6803,6815,bump actions/checkout from 4.1.0 to 4.2.0,handle permissionerror when importing adapter.py,0.0946969696969697,0
+6803,6730,bump actions/checkout from 4.1.0 to 4.2.0,certificate loading regression with httpadapters in 2.32.3,0.0946969696969697,0
+6803,6542,bump actions/checkout from 4.1.0 to 4.2.0,cookies with are not sent for via unencrypted,0.09090909090909091,0
+6803,7048,bump actions/checkout from 4.1.0 to 4.2.0,"cloudflare blocks my api bot, but not when i use",0.08712121212121213,0
+6803,6809,bump actions/checkout from 4.1.0 to 4.2.0,retry hangs indefinitely for 503 status code,0.08712121212121213,0
+6767,6775,revert caching a default sslcontext,with setuptools 72.0.0 requests can no longer be installed from git,0.234375,1
+6767,6730,revert caching a default sslcontext,certificate loading regression with httpadapters in 2.32.3,0.15625,1
+6767,7001,revert caching a default sslcontext,dynamic import causing filenotfounderror in shrinkwrapped applications after dep,0.15625,1
+6767,6794,revert caching a default sslcontext,requests changes the url on get,0.14432989690721648,0
+6767,7048,revert caching a default sslcontext,"cloudflare blocks my api bot, but not when i use",0.14285714285714285,0
+6767,6751,revert caching a default sslcontext,requests 2.31.0 - unhashable type 'list' for 'cert' parameter,0.140625,0
+6767,7018,revert caching a default sslcontext,remove unused argument from urllib3 request context,0.140625,0
+6767,6954,revert caching a default sslcontext,class headerdict rest requests.packages.urllib3. collections.httpheaderdict : at,0.1388888888888889,0
+6767,6542,revert caching a default sslcontext,cookies with are not sent for via unencrypted,0.13414634146341464,0
+6767,6815,revert caching a default sslcontext,handle permissionerror when importing adapter.py,0.13043478260869565,0
+6787,7031,bump github/codeql-action from 3.25.0 to 3.26.0,"ai bug analysis: readtimeout exception httpsconnectionpool host='domain.com', po",0.19346049046321526,1
+6787,6833,bump github/codeql-action from 3.25.0 to 3.26.0,lack of respect for questions and support requests,0.1226158038147139,1
+6787,7045,bump github/codeql-action from 3.25.0 to 3.26.0,about connection release when maintaining sessions,0.11989100817438691,1
+6787,6730,bump github/codeql-action from 3.25.0 to 3.26.0,certificate loading regression with httpadapters in 2.32.3,0.10354223433242507,0
+6787,6542,bump github/codeql-action from 3.25.0 to 3.26.0,cookies with are not sent for via unencrypted,0.08991825613079019,0
+6787,6794,bump github/codeql-action from 3.25.0 to 3.26.0,requests changes the url on get,0.08719346049046321,0
+6787,6815,bump github/codeql-action from 3.25.0 to 3.26.0,handle permissionerror when importing adapter.py,0.08446866485013624,0
+6787,6823,bump github/codeql-action from 3.25.0 to 3.26.0,chunked put using a generator function...,0.08174386920980926,0
+6787,7047,bump github/codeql-action from 3.25.0 to 3.26.0,add response status code to httperror exception,0.08174386920980926,0
+6787,6809,bump github/codeql-action from 3.25.0 to 3.26.0,retry hangs indefinitely for 503 status code,0.07901907356948229,0
+6797,6833,bump actions/setup-python from 5.1.0 to 5.2.0,lack of respect for questions and support requests,0.14622641509433962,1
+6797,7031,bump actions/setup-python from 5.1.0 to 5.2.0,"ai bug analysis: readtimeout exception httpsconnectionpool host='domain.com', po",0.12256267409470752,1
+6797,7045,bump actions/setup-python from 5.1.0 to 5.2.0,about connection release when maintaining sessions,0.1179245283018868,1
+6797,6730,bump actions/setup-python from 5.1.0 to 5.2.0,certificate loading regression with httpadapters in 2.32.3,0.11320754716981132,0
+6797,2766,bump actions/setup-python from 5.1.0 to 5.2.0,document threading contract for session class,0.10849056603773585,0
+6797,6815,bump actions/setup-python from 5.1.0 to 5.2.0,handle permissionerror when importing adapter.py,0.10377358490566038,0
+6797,6794,bump actions/setup-python from 5.1.0 to 5.2.0,requests changes the url on get,0.10377358490566038,0
+6797,6542,bump actions/setup-python from 5.1.0 to 5.2.0,cookies with are not sent for via unencrypted,0.09905660377358491,0
+6797,6823,bump actions/setup-python from 5.1.0 to 5.2.0,chunked put using a generator function...,0.09433962264150944,0
+6797,7047,bump actions/setup-python from 5.1.0 to 5.2.0,add response status code to httperror exception,0.09433962264150944,0
+7010,6833,bump actions/checkout from 4.2.0 to 5.0.0,lack of respect for questions and support requests,0.12403100775193798,1
+7010,7031,bump actions/checkout from 4.2.0 to 5.0.0,"ai bug analysis: readtimeout exception httpsconnectionpool host='domain.com', po",0.11420612813370473,1
+7010,7045,bump actions/checkout from 4.2.0 to 5.0.0,about connection release when maintaining sessions,0.10465116279069768,1
+7010,2766,bump actions/checkout from 4.2.0 to 5.0.0,document threading contract for session class,0.10077519379844961,0
+7010,6794,bump actions/checkout from 4.2.0 to 5.0.0,requests changes the url on get,0.09689922480620156,0
+7010,7048,bump actions/checkout from 4.2.0 to 5.0.0,"cloudflare blocks my api bot, but not when i use",0.09302325581395349,0
+7010,6730,bump actions/checkout from 4.2.0 to 5.0.0,certificate loading regression with httpadapters in 2.32.3,0.09302325581395349,0
+7010,6815,bump actions/checkout from 4.2.0 to 5.0.0,handle permissionerror when importing adapter.py,0.08527131782945736,0
+7010,6823,bump actions/checkout from 4.2.0 to 5.0.0,chunked put using a generator function...,0.08139534883720931,0
+7010,7047,bump actions/checkout from 4.2.0 to 5.0.0,add response status code to httperror exception,0.08139534883720931,0
+7037,6751,update readme.md,requests 2.31.0 - unhashable type 'list' for 'cert' parameter,0.17142857142857143,1
+7037,7018,update readme.md,remove unused argument from urllib3 request context,0.0851063829787234,0
+7037,7048,update readme.md,"cloudflare blocks my api bot, but not when i use",0.08333333333333333,0
+7037,6807,update readme.md,what is the point of this line?,0.08333333333333333,0
+7037,7028,update readme.md,tor request,0.08333333333333333,0
+7037,6800,update readme.md,attributeerror: 'request' object has no attribute 'authorize',0.08333333333333333,0
+7037,6699,update readme.md,attributeerror: 'nonetype' object has no attribute 'setdefault' on environment p,0.08108108108108109,0
+7037,7001,update readme.md,dynamic import causing filenotfounderror in shrinkwrapped applications after dep,0.078125,0
+7037,7045,update readme.md,about connection release when maintaining sessions,0.07462686567164178,0
+7037,6542,update readme.md,cookies with are not sent for via unencrypted,0.07317073170731707,0
+6720,7048,start testing on 3.13 beta,"cloudflare blocks my api bot, but not when i use",0.19047619047619047,1
+6720,7018,start testing on 3.13 beta,remove unused argument from urllib3 request context,0.1506849315068493,1
+6720,2766,start testing on 3.13 beta,document threading contract for session class,0.14678899082568808,1
+6720,6794,start testing on 3.13 beta,requests changes the url on get,0.14432989690721648,0
+6720,6699,start testing on 3.13 beta,attributeerror: 'nonetype' object has no attribute 'setdefault' on environment p,0.136986301369863,0
+6720,6954,start testing on 3.13 beta,class headerdict rest requests.packages.urllib3. collections.httpheaderdict : at,0.136986301369863,0
+6720,6833,start testing on 3.13 beta,lack of respect for questions and support requests,0.13125,0
+6720,6815,start testing on 3.13 beta,handle permissionerror when importing adapter.py,0.13043478260869565,0
+6720,6775,start testing on 3.13 beta,with setuptools 72.0.0 requests can no longer be installed from git,0.1232876712328767,0
+6720,6542,start testing on 3.13 beta,cookies with are not sent for via unencrypted,0.12195121951219512,0
+6802,7028,start testing on 3.13rc,tor request,0.05,0
+6802,6699,start testing on 3.13rc,attributeerror: 'nonetype' object has no attribute 'setdefault' on environment p,0.02702702702702703,0
+6802,7022,start testing on 3.13rc,create db.py,0.023255813953488372,0
+6802,7018,start testing on 3.13rc,remove unused argument from urllib3 request context,0.02127659574468085,0
+6802,6800,start testing on 3.13rc,attributeerror: 'request' object has no attribute 'authorize',0.020833333333333332,0
+6802,6775,start testing on 3.13rc,with setuptools 72.0.0 requests can no longer be installed from git,0.01639344262295082,0
+6802,6804,start testing on 3.13rc,xml gets shortened when submitting a post request,0.015873015873015872,0
+6802,6542,start testing on 3.13rc,cookies with are not sent for via unencrypted,0.012195121951219513,0
+6802,7048,start testing on 3.13rc,"cloudflare blocks my api bot, but not when i use",0.011904761904761904,0
+6802,6809,start testing on 3.13rc,retry hangs indefinitely for 503 status code,0.011627906976744186,0
+6801,6699,teach users to use with-statements for multipart-encoded files,attributeerror: 'nonetype' object has no attribute 'setdefault' on environment p,0.13513513513513514,1
+6801,7028,teach users to use with-statements for multipart-encoded files,tor request,0.125,1
+6801,6804,teach users to use with-statements for multipart-encoded files,xml gets shortened when submitting a post request,0.09523809523809523,0
+6801,7048,teach users to use with-statements for multipart-encoded files,"cloudflare blocks my api bot, but not when i use",0.09523809523809523,0
+6801,6751,teach users to use with-statements for multipart-encoded files,requests 2.31.0 - unhashable type 'list' for 'cert' parameter,0.08571428571428572,0
+6801,7018,teach users to use with-statements for multipart-encoded files,remove unused argument from urllib3 request context,0.0851063829787234,0
+6801,7039,teach users to use with-statements for multipart-encoded files,type hint needed,0.08333333333333333,0
+6801,6775,teach users to use with-statements for multipart-encoded files,with setuptools 72.0.0 requests can no longer be installed from git,0.08196721311475409,0
+6801,6730,teach users to use with-statements for multipart-encoded files,certificate loading regression with httpadapters in 2.32.3,0.07291666666666667,0
+6801,7006,teach users to use with-statements for multipart-encoded files,modulenotfounderror,0.07142857142857142,0
+6991,7079,fix: correct digest auth uri handling for semicolons in path 6990,feature request: add built-in logger hooks for all http requests and responses,0.04411764705882353,0
+6991,6809,fix: correct digest auth uri handling for semicolons in path 6990,retry hangs indefinitely for 503 status code,0.03488372093023256,0
+6991,6647,fix: correct digest auth uri handling for semicolons in path 6990,wrong ca certificates used in requests.session.send,0.03333333333333333,0
+6991,6730,fix: correct digest auth uri handling for semicolons in path 6990,certificate loading regression with httpadapters in 2.32.3,0.03125,0
+6991,7001,fix: correct digest auth uri handling for semicolons in path 6990,dynamic import causing filenotfounderror in shrinkwrapped applications after dep,0.03125,0
+6991,7047,fix: correct digest auth uri handling for semicolons in path 6990,add response status code to httperror exception,0.02857142857142857,0
+6991,7029,fix: correct digest auth uri handling for semicolons in path 6990,"one request fails, but others don't; it also succeeds in terminal",0.026785714285714284,0
+6991,6542,fix: correct digest auth uri handling for semicolons in path 6990,cookies with are not sent for via unencrypted,0.024390243902439025,0
+6991,7045,fix: correct digest auth uri handling for semicolons in path 6990,about connection release when maintaining sessions,0.022388059701492536,0
+6991,7039,fix: correct digest auth uri handling for semicolons in path 6990,type hint needed,0.02127659574468085,0
+7023,6751,clarify response comparison in quickstart documentation fixes 6949,requests 2.31.0 - unhashable type 'list' for 'cert' parameter,0.19047619047619047,1
+7023,6647,clarify response comparison in quickstart documentation fixes 6949,wrong ca certificates used in requests.session.send,0.18333333333333332,1
+7023,6775,clarify response comparison in quickstart documentation fixes 6949,with setuptools 72.0.0 requests can no longer be installed from git,0.14754098360655737,1
+7023,7079,clarify response comparison in quickstart documentation fixes 6949,feature request: add built-in logger hooks for all http requests and responses,0.1323529411764706,0
+7023,6730,clarify response comparison in quickstart documentation fixes 6949,certificate loading regression with httpadapters in 2.32.3,0.125,0
+7023,6794,clarify response comparison in quickstart documentation fixes 6949,requests changes the url on get,0.12371134020618557,0
+7023,6542,clarify response comparison in quickstart documentation fixes 6949,cookies with are not sent for via unencrypted,0.12195121951219512,0
+7023,6823,clarify response comparison in quickstart documentation fixes 6949,chunked put using a generator function...,0.11363636363636363,0
+7023,7018,clarify response comparison in quickstart documentation fixes 6949,remove unused argument from urllib3 request context,0.10638297872340426,0
+7023,6800,clarify response comparison in quickstart documentation fixes 6949,attributeerror: 'request' object has no attribute 'authorize',0.10416666666666667,0
+7026,6833,bump actions/setup-python from 5.6.0 to 6.0.0,lack of respect for questions and support requests,0.13777777777777778,1
+7026,7045,bump actions/setup-python from 5.6.0 to 6.0.0,about connection release when maintaining sessions,0.12,1
+7026,7031,bump actions/setup-python from 5.6.0 to 6.0.0,"ai bug analysis: readtimeout exception httpsconnectionpool host='domain.com', po",0.11977715877437325,1
+7026,2766,bump actions/setup-python from 5.6.0 to 6.0.0,document threading contract for session class,0.10666666666666667,0
+7026,6794,bump actions/setup-python from 5.6.0 to 6.0.0,requests changes the url on get,0.10666666666666667,0
+7026,7047,bump actions/setup-python from 5.6.0 to 6.0.0,add response status code to httperror exception,0.10222222222222223,0
+7026,6730,bump actions/setup-python from 5.6.0 to 6.0.0,certificate loading regression with httpadapters in 2.32.3,0.09333333333333334,0
+7026,6809,bump actions/setup-python from 5.6.0 to 6.0.0,retry hangs indefinitely for 503 status code,0.08888888888888889,0
+7026,6823,bump actions/setup-python from 5.6.0 to 6.0.0,chunked put using a generator function...,0.08444444444444445,0
+7026,6815,bump actions/setup-python from 5.6.0 to 6.0.0,handle permissionerror when importing adapter.py,0.08444444444444445,0
+7025,7031,bump pypa/gh-action-pypi-publish from 1.12.4 to 1.13.0,"ai bug analysis: readtimeout exception httpsconnectionpool host='domain.com', po",0.17827298050139276,1
+7025,6833,bump pypa/gh-action-pypi-publish from 1.12.4 to 1.13.0,lack of respect for questions and support requests,0.12320916905444126,1
+7025,7045,bump pypa/gh-action-pypi-publish from 1.12.4 to 1.13.0,about connection release when maintaining sessions,0.10888252148997135,1
+7025,6730,bump pypa/gh-action-pypi-publish from 1.12.4 to 1.13.0,certificate loading regression with httpadapters in 2.32.3,0.10028653295128939,0
+7025,6794,bump pypa/gh-action-pypi-publish from 1.12.4 to 1.13.0,requests changes the url on get,0.09742120343839542,0
+7025,7047,bump pypa/gh-action-pypi-publish from 1.12.4 to 1.13.0,add response status code to httperror exception,0.08882521489971347,0
+7025,2766,bump pypa/gh-action-pypi-publish from 1.12.4 to 1.13.0,document threading contract for session class,0.08595988538681948,0
+7025,6542,bump pypa/gh-action-pypi-publish from 1.12.4 to 1.13.0,cookies with are not sent for via unencrypted,0.08595988538681948,0
+7025,7048,bump pypa/gh-action-pypi-publish from 1.12.4 to 1.13.0,"cloudflare blocks my api bot, but not when i use",0.0830945558739255,0
+7025,6823,bump pypa/gh-action-pypi-publish from 1.12.4 to 1.13.0,chunked put using a generator function...,0.08022922636103152,0
+7019,7031,bump github/codeql-action from 3.29.0 to 3.30.0,"ai bug analysis: readtimeout exception httpsconnectionpool host='domain.com', po",0.1309192200557103,1
+7019,6833,bump github/codeql-action from 3.29.0 to 3.30.0,lack of respect for questions and support requests,0.12903225806451613,1
+7019,7045,bump github/codeql-action from 3.29.0 to 3.30.0,about connection release when maintaining sessions,0.10483870967741936,1
+7019,6794,bump github/codeql-action from 3.29.0 to 3.30.0,requests changes the url on get,0.10483870967741936,0
+7019,6730,bump github/codeql-action from 3.29.0 to 3.30.0,certificate loading regression with httpadapters in 2.32.3,0.10080645161290322,0
+7019,7047,bump github/codeql-action from 3.29.0 to 3.30.0,add response status code to httperror exception,0.0967741935483871,0
+7019,6815,bump github/codeql-action from 3.29.0 to 3.30.0,handle permissionerror when importing adapter.py,0.09274193548387097,0
+7019,6809,bump github/codeql-action from 3.29.0 to 3.30.0,retry hangs indefinitely for 503 status code,0.09274193548387097,0
+7019,7048,bump github/codeql-action from 3.29.0 to 3.30.0,"cloudflare blocks my api bot, but not when i use",0.08870967741935484,0
+7019,6542,bump github/codeql-action from 3.29.0 to 3.30.0,cookies with are not sent for via unencrypted,0.08870967741935484,0
+6796,6699,bugfix fix incorrectly overwriting content-type header when passing json body,attributeerror: 'nonetype' object has no attribute 'setdefault' on environment p,0.225,1
+6796,6751,bugfix fix incorrectly overwriting content-type header when passing json body,requests 2.31.0 - unhashable type 'list' for 'cert' parameter,0.2,1
+6796,6794,bugfix fix incorrectly overwriting content-type header when passing json body,requests changes the url on get,0.14432989690721648,1
+6796,7024,bugfix fix incorrectly overwriting content-type header when passing json body,about request.session,0.1320754716981132,0
+6796,6775,bugfix fix incorrectly overwriting content-type header when passing json body,with setuptools 72.0.0 requests can no longer be installed from git,0.13114754098360656,0
+6796,7048,bugfix fix incorrectly overwriting content-type header when passing json body,"cloudflare blocks my api bot, but not when i use",0.13095238095238096,0
+6796,7018,bugfix fix incorrectly overwriting content-type header when passing json body,remove unused argument from urllib3 request context,0.1276595744680851,0
+6796,7045,bugfix fix incorrectly overwriting content-type header when passing json body,about connection release when maintaining sessions,0.11940298507462686,0
+6796,6730,bugfix fix incorrectly overwriting content-type header when passing json body,certificate loading regression with httpadapters in 2.32.3,0.11458333333333333,0
+6796,6954,bugfix fix incorrectly overwriting content-type header when passing json body,class headerdict rest requests.packages.urllib3. collections.httpheaderdict : at,0.1111111111111111,0
+7017,7018,update conf.py footer line to reflect correct roman numeral notation date,remove unused argument from urllib3 request context,0.16363636363636364,1
+7017,7001,update conf.py footer line to reflect correct roman numeral notation date,dynamic import causing filenotfounderror in shrinkwrapped applications after dep,0.15625,1
+7017,6794,update conf.py footer line to reflect correct roman numeral notation date,requests changes the url on get,0.15463917525773196,1
+7017,6775,update conf.py footer line to reflect correct roman numeral notation date,with setuptools 72.0.0 requests can no longer be installed from git,0.14754098360655737,0
+7017,6699,update conf.py footer line to reflect correct roman numeral notation date,attributeerror: 'nonetype' object has no attribute 'setdefault' on environment p,0.14545454545454545,0
+7017,6542,update conf.py footer line to reflect correct roman numeral notation date,cookies with are not sent for via unencrypted,0.13414634146341464,0
+7017,7048,update conf.py footer line to reflect correct roman numeral notation date,"cloudflare blocks my api bot, but not when i use",0.13095238095238096,0
+7017,6751,update conf.py footer line to reflect correct roman numeral notation date,requests 2.31.0 - unhashable type 'list' for 'cert' parameter,0.12727272727272726,0
+7017,7006,update conf.py footer line to reflect correct roman numeral notation date,modulenotfounderror,0.12727272727272726,0
+7017,6804,update conf.py footer line to reflect correct roman numeral notation date,xml gets shortened when submitting a post request,0.12698412698412698,0
+4933,6751,fallback for decoding malformed location headers,requests 2.31.0 - unhashable type 'list' for 'cert' parameter,0.11428571428571428,1
+4933,6699,fallback for decoding malformed location headers,attributeerror: 'nonetype' object has no attribute 'setdefault' on environment p,0.08108108108108109,0
+4933,7079,fallback for decoding malformed location headers,feature request: add built-in logger hooks for all http requests and responses,0.07352941176470588,0
+4933,6647,fallback for decoding malformed location headers,wrong ca certificates used in requests.session.send,0.06666666666666667,0
+4933,7018,fallback for decoding malformed location headers,remove unused argument from urllib3 request context,0.06382978723404255,0
+4933,7029,fallback for decoding malformed location headers,"one request fails, but others don't; it also succeeds in terminal",0.0625,0
+4933,7024,fallback for decoding malformed location headers,about request.session,0.05660377358490566,0
+4933,6807,fallback for decoding malformed location headers,what is the point of this line?,0.05555555555555555,0
+4933,7039,fallback for decoding malformed location headers,type hint needed,0.05555555555555555,0
+4933,2766,fallback for decoding malformed location headers,document threading contract for session class,0.05504587155963303,0
+7015,6751,use emailmessage for response headers,requests 2.31.0 - unhashable type 'list' for 'cert' parameter,0.14285714285714285,1
+7015,6699,use emailmessage for response headers,attributeerror: 'nonetype' object has no attribute 'setdefault' on environment p,0.13513513513513514,1
+7015,7039,use emailmessage for response headers,type hint needed,0.12,1
+7015,7028,use emailmessage for response headers,tor request,0.12,0
+7015,7006,use emailmessage for response headers,modulenotfounderror,0.10714285714285714,0
+7015,7018,use emailmessage for response headers,remove unused argument from urllib3 request context,0.10638297872340426,0
+7015,7079,use emailmessage for response headers,feature request: add built-in logger hooks for all http requests and responses,0.08823529411764706,0
+7015,6542,use emailmessage for response headers,cookies with are not sent for via unencrypted,0.08536585365853659,0
+7015,7048,use emailmessage for response headers,"cloudflare blocks my api bot, but not when i use",0.08333333333333333,0
+7015,6647,use emailmessage for response headers,wrong ca certificates used in requests.session.send,0.08333333333333333,0
+7011,6804,v2.32.5,xml gets shortened when submitting a post request,0.15873015873015872,1
+7011,7001,v2.32.5,dynamic import causing filenotfounderror in shrinkwrapped applications after dep,0.15625,1
+7011,6751,v2.32.5,requests 2.31.0 - unhashable type 'list' for 'cert' parameter,0.15254237288135594,1
+7011,6800,v2.32.5,attributeerror: 'request' object has no attribute 'authorize',0.15254237288135594,0
+7011,7024,v2.32.5,about request.session,0.15254237288135594,0
+7011,6775,v2.32.5,with setuptools 72.0.0 requests can no longer be installed from git,0.14754098360655737,0
+7011,6794,v2.32.5,requests changes the url on get,0.14432989690721648,0
+7011,6809,v2.32.5,retry hangs indefinitely for 503 status code,0.13953488372093023,0
+7011,6954,v2.32.5,class headerdict rest requests.packages.urllib3. collections.httpheaderdict : at,0.1388888888888889,0
+7011,6699,v2.32.5,attributeerror: 'nonetype' object has no attribute 'setdefault' on environment p,0.13559322033898305,0
+7009,7048,add test for requestscookiejar zero and empty string value handling,"cloudflare blocks my api bot, but not when i use",0.19047619047619047,1
+7009,7018,add test for requestscookiejar zero and empty string value handling,remove unused argument from urllib3 request context,0.18518518518518517,1
+7009,6730,add test for requestscookiejar zero and empty string value handling,certificate loading regression with httpadapters in 2.32.3,0.16666666666666666,1
+7009,6542,add test for requestscookiejar zero and empty string value handling,cookies with are not sent for via unencrypted,0.15853658536585366,0
+7009,6800,add test for requestscookiejar zero and empty string value handling,attributeerror: 'request' object has no attribute 'authorize',0.14814814814814814,0
+7009,6699,add test for requestscookiejar zero and empty string value handling,attributeerror: 'nonetype' object has no attribute 'setdefault' on environment p,0.14814814814814814,0
+7009,6804,add test for requestscookiejar zero and empty string value handling,xml gets shortened when submitting a post request,0.14285714285714285,0
+7009,7001,add test for requestscookiejar zero and empty string value handling,dynamic import causing filenotfounderror in shrinkwrapped applications after dep,0.140625,0
+7009,7079,add test for requestscookiejar zero and empty string value handling,feature request: add built-in logger hooks for all http requests and responses,0.1323529411764706,0
+7009,6775,add test for requestscookiejar zero and empty string value handling,with setuptools 72.0.0 requests can no longer be installed from git,0.13114754098360656,0
+6786,7079,add some nonstandard http status code,feature request: add built-in logger hooks for all http requests and responses,0.04411764705882353,0
+6786,6809,add some nonstandard http status code,retry hangs indefinitely for 503 status code,0.03488372093023256,0
+6786,7022,add some nonstandard http status code,create db.py,0.023255813953488372,0
+6786,7045,add some nonstandard http status code,about connection release when maintaining sessions,0.022388059701492536,0
+6786,6815,add some nonstandard http status code,handle permissionerror when importing adapter.py,0.021739130434782608,0
+6786,7047,add some nonstandard http status code,add response status code to httperror exception,0.02142857142857143,0
+6786,6730,add some nonstandard http status code,certificate loading regression with httpadapters in 2.32.3,0.020833333333333332,0
+6786,6800,add some nonstandard http status code,attributeerror: 'request' object has no attribute 'authorize',0.020833333333333332,0
+6786,6804,add some nonstandard http status code,xml gets shortened when submitting a post request,0.015873015873015872,0
+6786,7001,add some nonstandard http status code,dynamic import causing filenotfounderror in shrinkwrapped applications after dep,0.015625,0
+7008,6751,fix: allow empty string and zero values to be retrieved from requestscookiejar,requests 2.31.0 - unhashable type 'list' for 'cert' parameter,0.16279069767441862,1
+7008,6775,fix: allow empty string and zero values to be retrieved from requestscookiejar,with setuptools 72.0.0 requests can no longer be installed from git,0.14754098360655737,1
+7008,6699,fix: allow empty string and zero values to be retrieved from requestscookiejar,attributeerror: 'nonetype' object has no attribute 'setdefault' on environment p,0.11627906976744186,1
+7008,7018,fix: allow empty string and zero values to be retrieved from requestscookiejar,remove unused argument from urllib3 request context,0.10638297872340426,0
+7008,6794,fix: allow empty string and zero values to be retrieved from requestscookiejar,requests changes the url on get,0.10309278350515463,0
+7008,6954,fix: allow empty string and zero values to be retrieved from requestscookiejar,class headerdict rest requests.packages.urllib3. collections.httpheaderdict : at,0.09722222222222222,0
+7008,7048,fix: allow empty string and zero values to be retrieved from requestscookiejar,"cloudflare blocks my api bot, but not when i use",0.09523809523809523,0
+7008,6835,fix: allow empty string and zero values to be retrieved from requestscookiejar,why requests.session doesn't send stored cookie?,0.09302325581395349,0
+7008,7079,fix: allow empty string and zero values to be retrieved from requestscookiejar,feature request: add built-in logger hooks for all http requests and responses,0.08823529411764706,0
+7008,6542,fix: allow empty string and zero values to be retrieved from requestscookiejar,cookies with are not sent for via unencrypted,0.08536585365853659,0
+7005,6794,security: update publish workflow to use instead of,requests changes the url on get,0.2222222222222222,1
+7005,6833,security: update publish workflow to use instead of,lack of respect for questions and support requests,0.19375,1
+7005,6730,security: update publish workflow to use instead of,certificate loading regression with httpadapters in 2.32.3,0.1794871794871795,1
+7005,2766,security: update publish workflow to use instead of,document threading contract for session class,0.17094017094017094,0
+7005,7045,security: update publish workflow to use instead of,about connection release when maintaining sessions,0.15671641791044777,0
+7005,7048,security: update publish workflow to use instead of,"cloudflare blocks my api bot, but not when i use",0.15384615384615385,0
+7005,6815,security: update publish workflow to use instead of,handle permissionerror when importing adapter.py,0.1452991452991453,0
+7005,6804,security: update publish workflow to use instead of,xml gets shortened when submitting a post request,0.13675213675213677,0
+7005,6542,security: update publish workflow to use instead of,cookies with are not sent for via unencrypted,0.13675213675213677,0
+7005,7001,security: update publish workflow to use instead of,dynamic import causing filenotfounderror in shrinkwrapped applications after dep,0.13675213675213677,0
+6780,6751,add newmodel class to models.py,requests 2.31.0 - unhashable type 'list' for 'cert' parameter,0.14285714285714285,1
+6780,7028,add newmodel class to models.py,tor request,0.09523809523809523,0
+6780,7018,add newmodel class to models.py,remove unused argument from urllib3 request context,0.0851063829787234,0
+6780,6800,add newmodel class to models.py,attributeerror: 'request' object has no attribute 'authorize',0.08333333333333333,0
+6780,7048,add newmodel class to models.py,"cloudflare blocks my api bot, but not when i use",0.07142857142857142,0
+6780,2766,add newmodel class to models.py,document threading contract for session class,0.06422018348623854,0
+6780,7001,add newmodel class to models.py,dynamic import causing filenotfounderror in shrinkwrapped applications after dep,0.0625,0
+6780,6542,add newmodel class to models.py,cookies with are not sent for via unencrypted,0.06097560975609756,0
+6780,7055,add newmodel class to models.py,"could not find a suitable tls ca certificate bundle, invalid path: /agents/pytho",0.06060606060606061,0
+6780,7079,add newmodel class to models.py,feature request: add built-in logger hooks for all http requests and responses,0.058823529411764705,0
+6781,7028,don't create default sslcontext if ca bundle isn't present,tor request,0.20689655172413793,1
+6781,7055,don't create default sslcontext if ca bundle isn't present,"could not find a suitable tls ca certificate bundle, invalid path: /agents/pytho",0.15151515151515152,1
+6781,7018,don't create default sslcontext if ca bundle isn't present,remove unused argument from urllib3 request context,0.14893617021276595,1
+6781,6807,don't create default sslcontext if ca bundle isn't present,what is the point of this line?,0.13793103448275862,0
+6781,6647,don't create default sslcontext if ca bundle isn't present,wrong ca certificates used in requests.session.send,0.13333333333333333,0
+6781,7024,don't create default sslcontext if ca bundle isn't present,about request.session,0.11320754716981132,0
+6781,6542,don't create default sslcontext if ca bundle isn't present,cookies with are not sent for via unencrypted,0.10975609756097561,0
+6781,6699,don't create default sslcontext if ca bundle isn't present,attributeerror: 'nonetype' object has no attribute 'setdefault' on environment p,0.10810810810810811,0
+6781,7048,don't create default sslcontext if ca bundle isn't present,"cloudflare blocks my api bot, but not when i use",0.10714285714285714,0
+6781,6775,don't create default sslcontext if ca bundle isn't present,with setuptools 72.0.0 requests can no longer be installed from git,0.09836065573770492,0
+6771,6647,handle multiple paths/cert files in 'requests ca bundle' environment variable,wrong ca certificates used in requests.session.send,0.21666666666666667,1
+6771,7018,handle multiple paths/cert files in 'requests ca bundle' environment variable,remove unused argument from urllib3 request context,0.1864406779661017,1
+6771,6794,handle multiple paths/cert files in 'requests ca bundle' environment variable,requests changes the url on get,0.17525773195876287,1
+6771,6804,handle multiple paths/cert files in 'requests ca bundle' environment variable,xml gets shortened when submitting a post request,0.1746031746031746,0
+6771,7001,handle multiple paths/cert files in 'requests ca bundle' environment variable,dynamic import causing filenotfounderror in shrinkwrapped applications after dep,0.171875,0
+6771,7055,handle multiple paths/cert files in 'requests ca bundle' environment variable,"could not find a suitable tls ca certificate bundle, invalid path: /agents/pytho",0.15254237288135594,0
+6771,7024,handle multiple paths/cert files in 'requests ca bundle' environment variable,about request.session,0.15254237288135594,0
+6771,6815,handle multiple paths/cert files in 'requests ca bundle' environment variable,handle permissionerror when importing adapter.py,0.14130434782608695,0
+6771,2766,handle multiple paths/cert files in 'requests ca bundle' environment variable,document threading contract for session class,0.13761467889908258,0
+6771,6699,handle multiple paths/cert files in 'requests ca bundle' environment variable,attributeerror: 'nonetype' object has no attribute 'setdefault' on environment p,0.13559322033898305,0
+6774,6775,remove setuptools test command,with setuptools 72.0.0 requests can no longer be installed from git,0.09836065573770492,0
+6774,6807,remove setuptools test command,what is the point of this line?,0.08333333333333333,0
+6774,7028,remove setuptools test command,tor request,0.05,0
+6774,7022,remove setuptools test command,create db.py,0.046511627906976744,0
+6774,6815,remove setuptools test command,handle permissionerror when importing adapter.py,0.043478260869565216,0
+6774,6800,remove setuptools test command,attributeerror: 'request' object has no attribute 'authorize',0.041666666666666664,0
+6774,7048,remove setuptools test command,"cloudflare blocks my api bot, but not when i use",0.03571428571428571,0
+6774,7006,remove setuptools test command,modulenotfounderror,0.03571428571428571,0
+6774,7001,remove setuptools test command,dynamic import causing filenotfounderror in shrinkwrapped applications after dep,0.03125,0
+6774,7055,remove setuptools test command,"could not find a suitable tls ca certificate bundle, invalid path: /agents/pytho",0.030303030303030304,0
+6757,6699,test on urllib3 1.26.x,attributeerror: 'nonetype' object has no attribute 'setdefault' on environment p,0.15,1
+6757,7048,test on urllib3 1.26.x,"cloudflare blocks my api bot, but not when i use",0.13095238095238096,1
+6757,6775,test on urllib3 1.26.x,with setuptools 72.0.0 requests can no longer be installed from git,0.11475409836065574,1
+6757,7018,test on urllib3 1.26.x,remove unused argument from urllib3 request context,0.10638297872340426,0
+6757,7055,test on urllib3 1.26.x,"could not find a suitable tls ca certificate bundle, invalid path: /agents/pytho",0.1,0
+6757,6647,test on urllib3 1.26.x,wrong ca certificates used in requests.session.send,0.1,0
+6757,7028,test on urllib3 1.26.x,tor request,0.1,0
+6757,6751,test on urllib3 1.26.x,requests 2.31.0 - unhashable type 'list' for 'cert' parameter,0.1,0
+6757,6804,test on urllib3 1.26.x,xml gets shortened when submitting a post request,0.09523809523809523,0
+6757,7045,test on urllib3 1.26.x,about connection release when maintaining sessions,0.08955223880597014,0
+6958,7048,improve onboarding with generated system diagrams,"cloudflare blocks my api bot, but not when i use",0.17857142857142858,1
+6958,6730,improve onboarding with generated system diagrams,certificate loading regression with httpadapters in 2.32.3,0.16666666666666666,1
+6958,6794,improve onboarding with generated system diagrams,requests changes the url on get,0.15463917525773196,1
+6958,6823,improve onboarding with generated system diagrams,chunked put using a generator function...,0.14772727272727273,0
+6958,7079,improve onboarding with generated system diagrams,feature request: add built-in logger hooks for all http requests and responses,0.14705882352941177,0
+6958,2766,improve onboarding with generated system diagrams,document threading contract for session class,0.14678899082568808,0
+6958,6542,improve onboarding with generated system diagrams,cookies with are not sent for via unencrypted,0.14634146341463414,0
+6958,7018,improve onboarding with generated system diagrams,remove unused argument from urllib3 request context,0.14516129032258066,0
+6958,7001,improve onboarding with generated system diagrams,dynamic import causing filenotfounderror in shrinkwrapped applications after dep,0.140625,0
+6958,6809,improve onboarding with generated system diagrams,retry hangs indefinitely for 503 status code,0.13953488372093023,0
+6999,6833,bump step-security/harden-runner from 2.12.0 to 2.13.0,lack of respect for questions and support requests,0.1643192488262911,1
+6999,7045,bump step-security/harden-runner from 2.12.0 to 2.13.0,about connection release when maintaining sessions,0.13615023474178403,1
+6999,7031,bump step-security/harden-runner from 2.12.0 to 2.13.0,"ai bug analysis: readtimeout exception httpsconnectionpool host='domain.com', po",0.13370473537604458,1
+6999,6794,bump step-security/harden-runner from 2.12.0 to 2.13.0,requests changes the url on get,0.11737089201877934,0
+6999,6809,bump step-security/harden-runner from 2.12.0 to 2.13.0,retry hangs indefinitely for 503 status code,0.107981220657277,0
+6999,6730,bump step-security/harden-runner from 2.12.0 to 2.13.0,certificate loading regression with httpadapters in 2.32.3,0.10328638497652583,0
+6999,7048,bump step-security/harden-runner from 2.12.0 to 2.13.0,"cloudflare blocks my api bot, but not when i use",0.09859154929577464,0
+6999,7047,bump step-security/harden-runner from 2.12.0 to 2.13.0,add response status code to httperror exception,0.09859154929577464,0
+6999,6542,bump step-security/harden-runner from 2.12.0 to 2.13.0,cookies with are not sent for via unencrypted,0.09859154929577464,0
+6999,2766,bump step-security/harden-runner from 2.12.0 to 2.13.0,document threading contract for session class,0.09389671361502347,0
+6426,6751,chore charset issue : resolution for issue 6102,requests 2.31.0 - unhashable type 'list' for 'cert' parameter,0.20930232558139536,1
+6426,7018,chore charset issue : resolution for issue 6102,remove unused argument from urllib3 request context,0.19148936170212766,1
+6426,6542,chore charset issue : resolution for issue 6102,cookies with are not sent for via unencrypted,0.17073170731707318,1
+6426,6647,chore charset issue : resolution for issue 6102,wrong ca certificates used in requests.session.send,0.16666666666666666,0
+6426,6775,chore charset issue : resolution for issue 6102,with setuptools 72.0.0 requests can no longer be installed from git,0.14754098360655737,0
+6426,6794,chore charset issue : resolution for issue 6102,requests changes the url on get,0.14432989690721648,0
+6426,6699,chore charset issue : resolution for issue 6102,attributeerror: 'nonetype' object has no attribute 'setdefault' on environment p,0.13953488372093023,0
+6426,6730,chore charset issue : resolution for issue 6102,certificate loading regression with httpadapters in 2.32.3,0.13541666666666666,0
+6426,7055,chore charset issue : resolution for issue 6102,"could not find a suitable tls ca certificate bundle, invalid path: /agents/pytho",0.11627906976744186,0
+6426,6823,chore charset issue : resolution for issue 6102,chunked put using a generator function...,0.11363636363636363,0
+6993,7018,add support for python 3.14 and drop support for python 3.8,remove unused argument from urllib3 request context,0.19148936170212766,1
+6993,6751,add support for python 3.14 and drop support for python 3.8,requests 2.31.0 - unhashable type 'list' for 'cert' parameter,0.16666666666666666,1
+6993,6800,add support for python 3.14 and drop support for python 3.8,attributeerror: 'request' object has no attribute 'authorize',0.10416666666666667,1
+6993,6775,add support for python 3.14 and drop support for python 3.8,with setuptools 72.0.0 requests can no longer be installed from git,0.09836065573770492,0
+6993,6542,add support for python 3.14 and drop support for python 3.8,cookies with are not sent for via unencrypted,0.0975609756097561,0
+6993,6804,add support for python 3.14 and drop support for python 3.8,xml gets shortened when submitting a post request,0.09523809523809523,0
+6993,7055,add support for python 3.14 and drop support for python 3.8,"could not find a suitable tls ca certificate bundle, invalid path: /agents/pytho",0.09523809523809523,0
+6993,7001,add support for python 3.14 and drop support for python 3.8,dynamic import causing filenotfounderror in shrinkwrapped applications after dep,0.09375,0
+6993,6809,add support for python 3.14 and drop support for python 3.8,retry hangs indefinitely for 503 status code,0.09302325581395349,0
+6993,6794,add support for python 3.14 and drop support for python 3.8,requests changes the url on get,0.09278350515463918,0
+6998,6835,test2,why requests.session doesn't send stored cookie?,0.0,0
+6998,6833,test2,lack of respect for questions and support requests,0.0,0
+6998,6823,test2,chunked put using a generator function...,0.0,0
+6998,2766,test2,document threading contract for session class,0.0,0
+6998,7033,test2,requests with self signed certs broken,0.0,0
+6998,7079,test2,feature request: add built-in logger hooks for all http requests and responses,0.0,0
+6998,6804,test2,xml gets shortened when submitting a post request,0.0,0
+6998,6815,test2,handle permissionerror when importing adapter.py,0.0,0
+6998,7055,test2,"could not find a suitable tls ca certificate bundle, invalid path: /agents/pytho",0.0,0
+6998,7048,test2,"cloudflare blocks my api bot, but not when i use",0.0,0
+6997,6775,test,with setuptools 72.0.0 requests can no longer be installed from git,0.01639344262295082,0
+6997,7048,test,"cloudflare blocks my api bot, but not when i use",0.011904761904761904,0
+6997,7031,test,"ai bug analysis: readtimeout exception httpsconnectionpool host='domain.com', po",0.002785515320334262,0
+6997,6835,test,why requests.session doesn't send stored cookie?,0.0,0
+6997,6833,test,lack of respect for questions and support requests,0.0,0
+6997,6823,test,chunked put using a generator function...,0.0,0
+6997,2766,test,document threading contract for session class,0.0,0
+6997,7033,test,requests with self signed certs broken,0.0,0
+6997,7079,test,feature request: add built-in logger hooks for all http requests and responses,0.0,0
+6997,6804,test,xml gets shortened when submitting a post request,0.0,0
+6769,6730,chore models : add type hints to improve type safety,certificate loading regression with httpadapters in 2.32.3,0.2,1
+6769,6794,chore models : add type hints to improve type safety,requests changes the url on get,0.19130434782608696,1
+6769,6815,chore models : add type hints to improve type safety,handle permissionerror when importing adapter.py,0.1565217391304348,1
+6769,6833,chore models : add type hints to improve type safety,lack of respect for questions and support requests,0.15,0
+6769,7045,chore models : add type hints to improve type safety,about connection release when maintaining sessions,0.14925373134328357,0
+6769,7048,chore models : add type hints to improve type safety,"cloudflare blocks my api bot, but not when i use",0.14782608695652175,0
+6769,7047,chore models : add type hints to improve type safety,add response status code to httperror exception,0.14285714285714285,0
+6769,2766,chore models : add type hints to improve type safety,document threading contract for session class,0.1391304347826087,0
+6769,6809,chore models : add type hints to improve type safety,retry hangs indefinitely for 503 status code,0.1391304347826087,0
+6769,7029,chore models : add type hints to improve type safety,"one request fails, but others don't; it also succeeds in terminal",0.1391304347826087,0
+6996,6807,remove the unused tox and flake8 sections from makefile,what is the point of this line?,0.1111111111111111,1
+6996,7018,remove the unused tox and flake8 sections from makefile,remove unused argument from urllib3 request context,0.10638297872340426,1
+6996,6751,remove the unused tox and flake8 sections from makefile,requests 2.31.0 - unhashable type 'list' for 'cert' parameter,0.08571428571428572,0
+6996,6815,remove the unused tox and flake8 sections from makefile,handle permissionerror when importing adapter.py,0.043478260869565216,0
+6996,6954,remove the unused tox and flake8 sections from makefile,class headerdict rest requests.packages.urllib3. collections.httpheaderdict : at,0.041666666666666664,0
+6996,7048,remove the unused tox and flake8 sections from makefile,"cloudflare blocks my api bot, but not when i use",0.03571428571428571,0
+6996,7006,remove the unused tox and flake8 sections from makefile,modulenotfounderror,0.03571428571428571,0
+6996,6647,remove the unused tox and flake8 sections from makefile,wrong ca certificates used in requests.session.send,0.03333333333333333,0
+6996,6775,remove the unused tox and flake8 sections from makefile,with setuptools 72.0.0 requests can no longer be installed from git,0.03278688524590164,0
+6996,7001,remove the unused tox and flake8 sections from makefile,dynamic import causing filenotfounderror in shrinkwrapped applications after dep,0.03125,0
+6995,7018,install tox and flake8 dependency to run make test and make flake8,remove unused argument from urllib3 request context,0.2127659574468085,1
+6995,6775,install tox and flake8 dependency to run make test and make flake8,with setuptools 72.0.0 requests can no longer be installed from git,0.19672131147540983,1
+6995,6647,install tox and flake8 dependency to run make test and make flake8,wrong ca certificates used in requests.session.send,0.15,1
+6995,7028,install tox and flake8 dependency to run make test and make flake8,tor request,0.14285714285714285,0
+6995,6751,install tox and flake8 dependency to run make test and make flake8,requests 2.31.0 - unhashable type 'list' for 'cert' parameter,0.14285714285714285,0
+6995,6542,install tox and flake8 dependency to run make test and make flake8,cookies with are not sent for via unencrypted,0.13414634146341464,0
+6995,6815,install tox and flake8 dependency to run make test and make flake8,handle permissionerror when importing adapter.py,0.13043478260869565,0
+6995,6823,install tox and flake8 dependency to run make test and make flake8,chunked put using a generator function...,0.125,0
+6995,7055,install tox and flake8 dependency to run make test and make flake8,"could not find a suitable tls ca certificate bundle, invalid path: /agents/pytho",0.11904761904761904,0
+6995,7006,install tox and flake8 dependency to run make test and make flake8,modulenotfounderror,0.11904761904761904,0
+6994,7039,docs: clarify timeout parameter uses seconds in session.request,type hint needed,0.08695652173913043,0
+6994,7028,docs: clarify timeout parameter uses seconds in session.request,tor request,0.08695652173913043,0
+6994,6751,docs: clarify timeout parameter uses seconds in session.request,requests 2.31.0 - unhashable type 'list' for 'cert' parameter,0.08571428571428572,0
+6994,6647,docs: clarify timeout parameter uses seconds in session.request,wrong ca certificates used in requests.session.send,0.06666666666666667,0
+6994,6699,docs: clarify timeout parameter uses seconds in session.request,attributeerror: 'nonetype' object has no attribute 'setdefault' on environment p,0.05405405405405406,0
+6994,7079,docs: clarify timeout parameter uses seconds in session.request,feature request: add built-in logger hooks for all http requests and responses,0.04411764705882353,0
+6994,7027,docs: clarify timeout parameter uses seconds in session.request,@ziavai777,0.043478260869565216,0
+6994,7018,docs: clarify timeout parameter uses seconds in session.request,remove unused argument from urllib3 request context,0.0425531914893617,0
+6994,6954,docs: clarify timeout parameter uses seconds in session.request,class headerdict rest requests.packages.urllib3. collections.httpheaderdict : at,0.041666666666666664,0
+6994,2766,docs: clarify timeout parameter uses seconds in session.request,document threading contract for session class,0.03669724770642202,0
+6955,7001,fix 6917: correct content-length for io.stringio with multi-byte utf-8,dynamic import causing filenotfounderror in shrinkwrapped applications after dep,0.140625,1
+6955,6751,fix 6917: correct content-length for io.stringio with multi-byte utf-8,requests 2.31.0 - unhashable type 'list' for 'cert' parameter,0.12962962962962962,1
+6955,7018,fix 6917: correct content-length for io.stringio with multi-byte utf-8,remove unused argument from urllib3 request context,0.12962962962962962,1
+6955,6954,fix 6917: correct content-length for io.stringio with multi-byte utf-8,class headerdict rest requests.packages.urllib3. collections.httpheaderdict : at,0.125,0
+6955,6730,fix 6917: correct content-length for io.stringio with multi-byte utf-8,certificate loading regression with httpadapters in 2.32.3,0.11458333333333333,0
+6955,6794,fix 6917: correct content-length for io.stringio with multi-byte utf-8,requests changes the url on get,0.10309278350515463,0
+6955,7079,fix 6917: correct content-length for io.stringio with multi-byte utf-8,feature request: add built-in logger hooks for all http requests and responses,0.10294117647058823,0
+6955,6775,fix 6917: correct content-length for io.stringio with multi-byte utf-8,with setuptools 72.0.0 requests can no longer be installed from git,0.09836065573770492,0
+6955,6804,fix 6917: correct content-length for io.stringio with multi-byte utf-8,xml gets shortened when submitting a post request,0.09523809523809523,0
+6955,7048,fix 6917: correct content-length for io.stringio with multi-byte utf-8,"cloudflare blocks my api bot, but not when i use",0.09523809523809523,0
+6765,6800,ensure that basic auth would work with non latin symbols,attributeerror: 'request' object has no attribute 'authorize',0.041666666666666664,0
+6765,7048,ensure that basic auth would work with non latin symbols,"cloudflare blocks my api bot, but not when i use",0.03571428571428571,0
+6765,6823,ensure that basic auth would work with non latin symbols,chunked put using a generator function...,0.03409090909090909,0
+6765,6730,ensure that basic auth would work with non latin symbols,certificate loading regression with httpadapters in 2.32.3,0.03125,0
+6765,7001,ensure that basic auth would work with non latin symbols,dynamic import causing filenotfounderror in shrinkwrapped applications after dep,0.03125,0
+6765,7079,ensure that basic auth would work with non latin symbols,feature request: add built-in logger hooks for all http requests and responses,0.029411764705882353,0
+6765,6542,ensure that basic auth would work with non latin symbols,cookies with are not sent for via unencrypted,0.024390243902439025,0
+6765,6809,ensure that basic auth would work with non latin symbols,retry hangs indefinitely for 503 status code,0.023255813953488372,0
+6765,7022,ensure that basic auth would work with non latin symbols,create db.py,0.023255813953488372,0
+6765,7018,ensure that basic auth would work with non latin symbols,remove unused argument from urllib3 request context,0.02127659574468085,0
+6986,6699,print post,attributeerror: 'nonetype' object has no attribute 'setdefault' on environment p,0.05405405405405406,0
+6986,6804,print post,xml gets shortened when submitting a post request,0.047619047619047616,0
+6986,7028,print post,tor request,0.043478260869565216,0
+6986,7018,print post,remove unused argument from urllib3 request context,0.0425531914893617,0
+6986,6800,print post,attributeerror: 'request' object has no attribute 'authorize',0.041666666666666664,0
+6986,7024,print post,about request.session,0.03773584905660377,0
+6986,6542,print post,cookies with are not sent for via unencrypted,0.036585365853658534,0
+6986,7006,print post,modulenotfounderror,0.03571428571428571,0
+6986,6775,print post,with setuptools 72.0.0 requests can no longer be installed from git,0.03278688524590164,0
+6986,7001,print post,dynamic import causing filenotfounderror in shrinkwrapped applications after dep,0.03125,0
+6987,6807,add specifications to the main,what is the point of this line?,0.16666666666666666,1
+6987,7039,add specifications to the main,type hint needed,0.14285714285714285,1
+6987,7028,add specifications to the main,tor request,0.1,0
+6987,6751,add specifications to the main,requests 2.31.0 - unhashable type 'list' for 'cert' parameter,0.08571428571428572,0
+6987,7018,add specifications to the main,remove unused argument from urllib3 request context,0.0851063829787234,0
+6987,7024,add specifications to the main,about request.session,0.07547169811320754,0
+6987,6647,add specifications to the main,wrong ca certificates used in requests.session.send,0.06666666666666667,0
+6987,6775,add specifications to the main,with setuptools 72.0.0 requests can no longer be installed from git,0.06557377049180328,0
+6987,6804,add specifications to the main,xml gets shortened when submitting a post request,0.06349206349206349,0
+6987,7048,add specifications to the main,"cloudflare blocks my api bot, but not when i use",0.05952380952380952,0
+6926,6775,drop pypy 3.9 and add pypy 3.11 support,with setuptools 72.0.0 requests can no longer be installed from git,0.19672131147540983,1
+6926,6699,drop pypy 3.9 and add pypy 3.11 support,attributeerror: 'nonetype' object has no attribute 'setdefault' on environment p,0.17391304347826086,1
+6926,7079,drop pypy 3.9 and add pypy 3.11 support,feature request: add built-in logger hooks for all http requests and responses,0.16176470588235295,1
+6926,6751,drop pypy 3.9 and add pypy 3.11 support,requests 2.31.0 - unhashable type 'list' for 'cert' parameter,0.15217391304347827,0
+6926,7018,drop pypy 3.9 and add pypy 3.11 support,remove unused argument from urllib3 request context,0.14893617021276595,0
+6926,7001,drop pypy 3.9 and add pypy 3.11 support,dynamic import causing filenotfounderror in shrinkwrapped applications after dep,0.140625,0
+6926,6542,drop pypy 3.9 and add pypy 3.11 support,cookies with are not sent for via unencrypted,0.13414634146341464,0
+6926,7048,drop pypy 3.9 and add pypy 3.11 support,"cloudflare blocks my api bot, but not when i use",0.13095238095238096,0
+6926,6800,drop pypy 3.9 and add pypy 3.11 support,attributeerror: 'request' object has no attribute 'authorize',0.125,0
+6926,6794,drop pypy 3.9 and add pypy 3.11 support,requests changes the url on get,0.12371134020618557,0
+6985,6794,fix: bug with closes 6981,requests changes the url on get,0.24742268041237114,1
+6985,7045,fix: bug with closes 6981,about connection release when maintaining sessions,0.1865671641791045,1
+6985,7048,fix: bug with closes 6981,"cloudflare blocks my api bot, but not when i use",0.17708333333333334,1
+6985,6647,fix: bug with closes 6981,wrong ca certificates used in requests.session.send,0.16666666666666666,0
+6985,6730,fix: bug with closes 6981,certificate loading regression with httpadapters in 2.32.3,0.16666666666666666,0
+6985,2766,fix: bug with closes 6981,document threading contract for session class,0.1651376146788991,0
+6985,7079,fix: bug with closes 6981,feature request: add built-in logger hooks for all http requests and responses,0.15625,0
+6985,6815,fix: bug with closes 6981,handle permissionerror when importing adapter.py,0.15625,0
+6985,6809,fix: bug with closes 6981,retry hangs indefinitely for 503 status code,0.15625,0
+6985,6542,fix: bug with closes 6981,cookies with are not sent for via unencrypted,0.15625,0
+6984,6794,fix: bug with closes 6981,requests changes the url on get,0.30927835051546393,1
+6984,6809,fix: bug with closes 6981,retry hangs indefinitely for 503 status code,0.23655913978494625,1
+6984,6730,fix: bug with closes 6981,certificate loading regression with httpadapters in 2.32.3,0.21875,1
+6984,6823,fix: bug with closes 6981,chunked put using a generator function...,0.20430107526881722,0
+6984,6815,fix: bug with closes 6981,handle permissionerror when importing adapter.py,0.20430107526881722,0
+6984,6542,fix: bug with closes 6981,cookies with are not sent for via unencrypted,0.20430107526881722,0
+6984,6647,fix: bug with closes 6981,wrong ca certificates used in requests.session.send,0.1827956989247312,0
+6984,7048,fix: bug with closes 6981,"cloudflare blocks my api bot, but not when i use",0.17204301075268819,0
+6984,7033,fix: bug with closes 6981,requests with self signed certs broken,0.16494845360824742,0
+6984,7045,fix: bug with closes 6981,about connection release when maintaining sessions,0.16417910447761194,0
+6983,6794,fix: bug with closes 6981,requests changes the url on get,0.26804123711340205,1
+6983,6823,fix: bug with closes 6981,chunked put using a generator function...,0.19318181818181818,1
+6983,7048,fix: bug with closes 6981,"cloudflare blocks my api bot, but not when i use",0.19318181818181818,1
+6983,6809,fix: bug with closes 6981,retry hangs indefinitely for 503 status code,0.19318181818181818,0
+6983,6647,fix: bug with closes 6981,wrong ca certificates used in requests.session.send,0.19318181818181818,0
+6983,6542,fix: bug with closes 6981,cookies with are not sent for via unencrypted,0.19318181818181818,0
+6983,7045,fix: bug with closes 6981,about connection release when maintaining sessions,0.1791044776119403,0
+6983,6730,fix: bug with closes 6981,certificate loading regression with httpadapters in 2.32.3,0.17708333333333334,0
+6983,6815,fix: bug with closes 6981,handle permissionerror when importing adapter.py,0.17391304347826086,0
+6983,7018,fix: bug with closes 6981,remove unused argument from urllib3 request context,0.17045454545454544,0
+6982,6794,fix: bug with closes 6981,requests changes the url on get,0.25773195876288657,1
+6982,6730,fix: bug with closes 6981,certificate loading regression with httpadapters in 2.32.3,0.19791666666666666,1
+6982,7048,fix: bug with closes 6981,"cloudflare blocks my api bot, but not when i use",0.1827956989247312,1
+6982,6809,fix: bug with closes 6981,retry hangs indefinitely for 503 status code,0.17204301075268819,0
+6982,6647,fix: bug with closes 6981,wrong ca certificates used in requests.session.send,0.17204301075268819,0
+6982,2766,fix: bug with closes 6981,document threading contract for session class,0.1651376146788991,0
+6982,6823,fix: bug with closes 6981,chunked put using a generator function...,0.16129032258064516,0
+6982,6542,fix: bug with closes 6981,cookies with are not sent for via unencrypted,0.16129032258064516,0
+6982,6815,fix: bug with closes 6981,handle permissionerror when importing adapter.py,0.15053763440860216,0
+6982,7018,fix: bug with closes 6981,remove unused argument from urllib3 request context,0.15053763440860216,0
+6759,6794,adding kill switch to save humanity in case of ai invasion,requests changes the url on get,0.18556701030927836,1
+6759,7018,adding kill switch to save humanity in case of ai invasion,remove unused argument from urllib3 request context,0.1791044776119403,1
+6759,6775,adding kill switch to save humanity in case of ai invasion,with setuptools 72.0.0 requests can no longer be installed from git,0.1791044776119403,1
+6759,7048,adding kill switch to save humanity in case of ai invasion,"cloudflare blocks my api bot, but not when i use",0.17857142857142858,0
+6759,6542,adding kill switch to save humanity in case of ai invasion,cookies with are not sent for via unencrypted,0.15853658536585366,0
+6759,6730,adding kill switch to save humanity in case of ai invasion,certificate loading regression with httpadapters in 2.32.3,0.15625,0
+6759,6833,adding kill switch to save humanity in case of ai invasion,lack of respect for questions and support requests,0.15,0
+6759,6804,adding kill switch to save humanity in case of ai invasion,xml gets shortened when submitting a post request,0.14925373134328357,0
+6759,6699,adding kill switch to save humanity in case of ai invasion,attributeerror: 'nonetype' object has no attribute 'setdefault' on environment p,0.14925373134328357,0
+6759,7001,adding kill switch to save humanity in case of ai invasion,dynamic import causing filenotfounderror in shrinkwrapped applications after dep,0.14925373134328357,0
+6746,7028,feat:add chunked parameter for request method,tor request,0.15,1
+6746,7055,feat:add chunked parameter for request method,"could not find a suitable tls ca certificate bundle, invalid path: /agents/pytho",0.12121212121212122,1
+6746,7018,feat:add chunked parameter for request method,remove unused argument from urllib3 request context,0.0851063829787234,0
+6746,7006,feat:add chunked parameter for request method,modulenotfounderror,0.07142857142857142,0
+6746,6804,feat:add chunked parameter for request method,xml gets shortened when submitting a post request,0.06349206349206349,0
+6746,6807,feat:add chunked parameter for request method,what is the point of this line?,0.058823529411764705,0
+6746,6751,feat:add chunked parameter for request method,requests 2.31.0 - unhashable type 'list' for 'cert' parameter,0.05714285714285714,0
+6746,6647,feat:add chunked parameter for request method,wrong ca certificates used in requests.session.send,0.05,0
+6746,6835,feat:add chunked parameter for request method,why requests.session doesn't send stored cookie?,0.04878048780487805,0
+6746,7048,feat:add chunked parameter for request method,"cloudflare blocks my api bot, but not when i use",0.047619047619047616,0
+6398,6794,"title: add ""setting up a local development environment"" to readme",requests changes the url on get,0.20618556701030927,1
+6398,2766,"title: add ""setting up a local development environment"" to readme",document threading contract for session class,0.1743119266055046,1
+6398,6815,"title: add ""setting up a local development environment"" to readme",handle permissionerror when importing adapter.py,0.16494845360824742,1
+6398,6809,"title: add ""setting up a local development environment"" to readme",retry hangs indefinitely for 503 status code,0.15463917525773196,0
+6398,6730,"title: add ""setting up a local development environment"" to readme",certificate loading regression with httpadapters in 2.32.3,0.15463917525773196,0
+6398,7079,"title: add ""setting up a local development environment"" to readme",feature request: add built-in logger hooks for all http requests and responses,0.14432989690721648,0
+6398,6542,"title: add ""setting up a local development environment"" to readme",cookies with are not sent for via unencrypted,0.14432989690721648,0
+6398,6833,"title: add ""setting up a local development environment"" to readme",lack of respect for questions and support requests,0.14375,0
+6398,7045,"title: add ""setting up a local development environment"" to readme",about connection release when maintaining sessions,0.13432835820895522,0
+6398,7055,"title: add ""setting up a local development environment"" to readme","could not find a suitable tls ca certificate bundle, invalid path: /agents/pytho",0.13402061855670103,0
+6973,7031,bump github/codeql-action from 3.28.5 to 3.29.0,"ai bug analysis: readtimeout exception httpsconnectionpool host='domain.com', po",0.14484679665738162,1
+6973,6833,bump github/codeql-action from 3.28.5 to 3.29.0,lack of respect for questions and support requests,0.1258741258741259,1
+6973,7045,bump github/codeql-action from 3.28.5 to 3.29.0,about connection release when maintaining sessions,0.0979020979020979,0
+6973,6794,bump github/codeql-action from 3.28.5 to 3.29.0,requests changes the url on get,0.0979020979020979,0
+6973,6730,bump github/codeql-action from 3.28.5 to 3.29.0,certificate loading regression with httpadapters in 2.32.3,0.0944055944055944,0
+6973,7047,bump github/codeql-action from 3.28.5 to 3.29.0,add response status code to httperror exception,0.09090909090909091,0
+6973,2766,bump github/codeql-action from 3.28.5 to 3.29.0,document threading contract for session class,0.08741258741258741,0
+6973,6809,bump github/codeql-action from 3.28.5 to 3.29.0,retry hangs indefinitely for 503 status code,0.08741258741258741,0
+6973,6542,bump github/codeql-action from 3.28.5 to 3.29.0,cookies with are not sent for via unencrypted,0.08741258741258741,0
+6973,6815,bump github/codeql-action from 3.28.5 to 3.29.0,handle permissionerror when importing adapter.py,0.08391608391608392,0
+6971,7055,removes simplejson,"could not find a suitable tls ca certificate bundle, invalid path: /agents/pytho",0.15151515151515152,1
+6971,6699,removes simplejson,attributeerror: 'nonetype' object has no attribute 'setdefault' on environment p,0.10810810810810811,1
+6971,7028,removes simplejson,tor request,0.1,0
+6971,7018,removes simplejson,remove unused argument from urllib3 request context,0.0851063829787234,0
+6971,7048,removes simplejson,"cloudflare blocks my api bot, but not when i use",0.08333333333333333,0
+6971,6647,removes simplejson,wrong ca certificates used in requests.session.send,0.08333333333333333,0
+6971,6800,removes simplejson,attributeerror: 'request' object has no attribute 'authorize',0.08333333333333333,0
+6971,6804,removes simplejson,xml gets shortened when submitting a post request,0.07936507936507936,0
+6971,7001,removes simplejson,dynamic import causing filenotfounderror in shrinkwrapped applications after dep,0.078125,0
+6971,7024,removes simplejson,about request.session,0.07547169811320754,0
+6972,7001,drop python 3.8,dynamic import causing filenotfounderror in shrinkwrapped applications after dep,0.046875,0
+6972,6800,drop python 3.8,attributeerror: 'request' object has no attribute 'authorize',0.041666666666666664,0
+6972,6775,drop python 3.8,with setuptools 72.0.0 requests can no longer be installed from git,0.03278688524590164,0
+6972,7055,drop python 3.8,"could not find a suitable tls ca certificate bundle, invalid path: /agents/pytho",0.030303030303030304,0
+6972,6699,drop python 3.8,attributeerror: 'nonetype' object has no attribute 'setdefault' on environment p,0.02702702702702703,0
+6972,7022,drop python 3.8,create db.py,0.023255813953488372,0
+6972,6815,drop python 3.8,handle permissionerror when importing adapter.py,0.021739130434782608,0
+6972,6794,drop python 3.8,requests changes the url on get,0.020618556701030927,0
+6972,6833,drop python 3.8,lack of respect for questions and support requests,0.01875,0
+6972,6647,drop python 3.8,wrong ca certificates used in requests.session.send,0.016666666666666666,0
+6970,6699,removes py2 code,attributeerror: 'nonetype' object has no attribute 'setdefault' on environment p,0.10810810810810811,1
+6970,7018,removes py2 code,remove unused argument from urllib3 request context,0.10638297872340426,1
+6970,6804,removes py2 code,xml gets shortened when submitting a post request,0.09523809523809523,0
+6970,7039,removes py2 code,type hint needed,0.09523809523809523,0
+6970,7055,removes py2 code,"could not find a suitable tls ca certificate bundle, invalid path: /agents/pytho",0.09090909090909091,0
+6970,7024,removes py2 code,about request.session,0.07547169811320754,0
+6970,6835,removes py2 code,why requests.session doesn't send stored cookie?,0.07317073170731707,0
+6970,7048,removes py2 code,"cloudflare blocks my api bot, but not when i use",0.07142857142857142,0
+6970,6647,removes py2 code,wrong ca certificates used in requests.session.send,0.06666666666666667,0
+6970,6815,removes py2 code,handle permissionerror when importing adapter.py,0.06521739130434782,0
+6907,7018,wrapped preloaded ssl context with function to speed up package import,remove unused argument from urllib3 request context,0.06382978723404255,0
+6907,6800,wrapped preloaded ssl context with function to speed up package import,attributeerror: 'request' object has no attribute 'authorize',0.0625,0
+6907,7006,wrapped preloaded ssl context with function to speed up package import,modulenotfounderror,0.0625,0
+6907,7001,wrapped preloaded ssl context with function to speed up package import,dynamic import causing filenotfounderror in shrinkwrapped applications after dep,0.0625,0
+6907,6823,wrapped preloaded ssl context with function to speed up package import,chunked put using a generator function...,0.056818181818181816,0
+6907,6730,wrapped preloaded ssl context with function to speed up package import,certificate loading regression with httpadapters in 2.32.3,0.052083333333333336,0
+6907,6794,wrapped preloaded ssl context with function to speed up package import,requests changes the url on get,0.05154639175257732,0
+6907,6647,wrapped preloaded ssl context with function to speed up package import,wrong ca certificates used in requests.session.send,0.05,0
+6907,6775,wrapped preloaded ssl context with function to speed up package import,with setuptools 72.0.0 requests can no longer be installed from git,0.04918032786885246,0
+6907,6542,wrapped preloaded ssl context with function to speed up package import,cookies with are not sent for via unencrypted,0.04878048780487805,0
+6785,6751,update conf.py to fix roman year,requests 2.31.0 - unhashable type 'list' for 'cert' parameter,0.14285714285714285,1
+6785,7018,update conf.py to fix roman year,remove unused argument from urllib3 request context,0.1276595744680851,1
+6785,6699,update conf.py to fix roman year,attributeerror: 'nonetype' object has no attribute 'setdefault' on environment p,0.10810810810810811,1
+6785,6647,update conf.py to fix roman year,wrong ca certificates used in requests.session.send,0.08333333333333333,0
+6785,6954,update conf.py to fix roman year,class headerdict rest requests.packages.urllib3. collections.httpheaderdict : at,0.08333333333333333,0
+6785,6804,update conf.py to fix roman year,xml gets shortened when submitting a post request,0.07936507936507936,0
+6785,7039,update conf.py to fix roman year,type hint needed,0.07407407407407407,0
+6785,7028,update conf.py to fix roman year,tor request,0.07407407407407407,0
+6785,7079,update conf.py to fix roman year,feature request: add built-in logger hooks for all http requests and responses,0.07352941176470588,0
+6785,2766,update conf.py to fix roman year,document threading contract for session class,0.07339449541284404,0
+6791,7018,do not load ssl context during import,remove unused argument from urllib3 request context,0.14893617021276595,1
+6791,6751,do not load ssl context during import,requests 2.31.0 - unhashable type 'list' for 'cert' parameter,0.14285714285714285,1
+6791,7006,do not load ssl context during import,modulenotfounderror,0.14285714285714285,1
+6791,6807,do not load ssl context during import,what is the point of this line?,0.125,0
+6791,7028,do not load ssl context during import,tor request,0.125,0
+6791,7055,do not load ssl context during import,"could not find a suitable tls ca certificate bundle, invalid path: /agents/pytho",0.12121212121212122,0
+6791,6794,do not load ssl context during import,requests changes the url on get,0.10309278350515463,0
+6791,6823,do not load ssl context during import,chunked put using a generator function...,0.10227272727272728,0
+6791,6954,do not load ssl context during import,class headerdict rest requests.packages.urllib3. collections.httpheaderdict : at,0.09722222222222222,0
+6791,2766,do not load ssl context during import,document threading contract for session class,0.09174311926605505,0
+6750,7055,catch filenotfounderror if there aren't any certificates,"could not find a suitable tls ca certificate bundle, invalid path: /agents/pytho",0.06060606060606061,0
+6750,7024,catch filenotfounderror if there aren't any certificates,about request.session,0.03773584905660377,0
+6750,6647,catch filenotfounderror if there aren't any certificates,wrong ca certificates used in requests.session.send,0.03333333333333333,0
+6750,6699,catch filenotfounderror if there aren't any certificates,attributeerror: 'nonetype' object has no attribute 'setdefault' on environment p,0.02702702702702703,0
+6750,6542,catch filenotfounderror if there aren't any certificates,cookies with are not sent for via unencrypted,0.024390243902439025,0
+6750,7048,catch filenotfounderror if there aren't any certificates,"cloudflare blocks my api bot, but not when i use",0.023809523809523808,0
+6750,7045,catch filenotfounderror if there aren't any certificates,about connection release when maintaining sessions,0.022388059701492536,0
+6750,7018,catch filenotfounderror if there aren't any certificates,remove unused argument from urllib3 request context,0.02127659574468085,0
+6750,6800,catch filenotfounderror if there aren't any certificates,attributeerror: 'request' object has no attribute 'authorize',0.020833333333333332,0
+6750,7001,catch filenotfounderror if there aren't any certificates,dynamic import causing filenotfounderror in shrinkwrapped applications after dep,0.015625,0
+6731,6833,address certificate loading regression,lack of respect for questions and support requests,0.20496894409937888,1
+6731,6730,address certificate loading regression,certificate loading regression with httpadapters in 2.32.3,0.16770186335403728,1
+6731,7045,address certificate loading regression,about connection release when maintaining sessions,0.16149068322981366,1
+6731,2766,address certificate loading regression,document threading contract for session class,0.15527950310559005,0
+6731,7048,address certificate loading regression,"cloudflare blocks my api bot, but not when i use",0.15527950310559005,0
+6731,6794,address certificate loading regression,requests changes the url on get,0.14906832298136646,0
+6731,7047,address certificate loading regression,add response status code to httperror exception,0.13664596273291926,0
+6731,7018,address certificate loading regression,remove unused argument from urllib3 request context,0.13043478260869565,0
+6731,7031,address certificate loading regression,"ai bug analysis: readtimeout exception httpsconnectionpool host='domain.com', po",0.12813370473537605,0
+6731,7029,address certificate loading regression,"one request fails, but others don't; it also succeeds in terminal",0.12422360248447205,0
+6718,6751,grammar fixes,requests 2.31.0 - unhashable type 'list' for 'cert' parameter,0.14285714285714285,1
+6718,6807,grammar fixes,what is the point of this line?,0.13043478260869565,1
+6718,7028,grammar fixes,tor request,0.13043478260869565,1
+6718,7018,grammar fixes,remove unused argument from urllib3 request context,0.1276595744680851,0
+6718,7001,grammar fixes,dynamic import causing filenotfounderror in shrinkwrapped applications after dep,0.09375,0
+6718,6800,grammar fixes,attributeerror: 'request' object has no attribute 'authorize',0.08333333333333333,0
+6718,6775,grammar fixes,with setuptools 72.0.0 requests can no longer be installed from git,0.08196721311475409,0
+6718,6809,grammar fixes,retry hangs indefinitely for 503 status code,0.08139534883720931,0
+6718,6699,grammar fixes,attributeerror: 'nonetype' object has no attribute 'setdefault' on environment p,0.08108108108108109,0
+6718,6804,grammar fixes,xml gets shortened when submitting a post request,0.07936507936507936,0
+6739,7001,update setup.py in order to fix cve-2023-37920,dynamic import causing filenotfounderror in shrinkwrapped applications after dep,0.15625,1
+6739,7018,update setup.py in order to fix cve-2023-37920,remove unused argument from urllib3 request context,0.14893617021276595,1
+6739,6775,update setup.py in order to fix cve-2023-37920,with setuptools 72.0.0 requests can no longer be installed from git,0.14754098360655737,1
+6739,7024,update setup.py in order to fix cve-2023-37920,about request.session,0.1320754716981132,0
+6739,6751,update setup.py in order to fix cve-2023-37920,requests 2.31.0 - unhashable type 'list' for 'cert' parameter,0.1276595744680851,0
+6739,6699,update setup.py in order to fix cve-2023-37920,attributeerror: 'nonetype' object has no attribute 'setdefault' on environment p,0.1276595744680851,0
+6739,6804,update setup.py in order to fix cve-2023-37920,xml gets shortened when submitting a post request,0.1111111111111111,0
+6739,6647,update setup.py in order to fix cve-2023-37920,wrong ca certificates used in requests.session.send,0.1,0
+6739,6542,update setup.py in order to fix cve-2023-37920,cookies with are not sent for via unencrypted,0.0975609756097561,0
+6739,6730,update setup.py in order to fix cve-2023-37920,certificate loading regression with httpadapters in 2.32.3,0.09375,0
+6494,6807,update certifi version to address critical cve,what is the point of this line?,0.1,0
+6494,7039,update certifi version to address critical cve,type hint needed,0.07142857142857142,0
+6494,6751,update certifi version to address critical cve,requests 2.31.0 - unhashable type 'list' for 'cert' parameter,0.05714285714285714,0
+6494,6699,update certifi version to address critical cve,attributeerror: 'nonetype' object has no attribute 'setdefault' on environment p,0.05405405405405406,0
+6494,7028,update certifi version to address critical cve,tor request,0.05,0
+6494,6775,update certifi version to address critical cve,with setuptools 72.0.0 requests can no longer be installed from git,0.04918032786885246,0
+6494,6804,update certifi version to address critical cve,xml gets shortened when submitting a post request,0.047619047619047616,0
+6494,7001,update certifi version to address critical cve,dynamic import causing filenotfounderror in shrinkwrapped applications after dep,0.046875,0
+6494,7018,update certifi version to address critical cve,remove unused argument from urllib3 request context,0.0425531914893617,0
+6494,7024,update certifi version to address critical cve,about request.session,0.03773584905660377,0
+6773,6775,clarify error description in cloning instructions,with setuptools 72.0.0 requests can no longer be installed from git,0.14754098360655737,1
+6773,6804,clarify error description in cloning instructions,xml gets shortened when submitting a post request,0.14285714285714285,1
+6773,6809,clarify error description in cloning instructions,retry hangs indefinitely for 503 status code,0.13953488372093023,1
+6773,6647,clarify error description in cloning instructions,wrong ca certificates used in requests.session.send,0.13114754098360656,0
+6773,6699,clarify error description in cloning instructions,attributeerror: 'nonetype' object has no attribute 'setdefault' on environment p,0.13114754098360656,0
+6773,7018,clarify error description in cloning instructions,remove unused argument from urllib3 request context,0.13114754098360656,0
+6773,6730,clarify error description in cloning instructions,certificate loading regression with httpadapters in 2.32.3,0.125,0
+6773,7001,clarify error description in cloning instructions,dynamic import causing filenotfounderror in shrinkwrapped applications after dep,0.125,0
+6773,6800,clarify error description in cloning instructions,attributeerror: 'request' object has no attribute 'authorize',0.11475409836065574,0
+6773,7024,clarify error description in cloning instructions,about request.session,0.11475409836065574,0
+6866,6730,adding host details in proxy headers,certificate loading regression with httpadapters in 2.32.3,0.1875,1
+6866,6809,adding host details in proxy headers,retry hangs indefinitely for 503 status code,0.18604651162790697,1
+6866,6542,adding host details in proxy headers,cookies with are not sent for via unencrypted,0.1744186046511628,1
+6866,6815,adding host details in proxy headers,handle permissionerror when importing adapter.py,0.17391304347826086,0
+6866,6794,adding host details in proxy headers,requests changes the url on get,0.16494845360824742,0
+6866,7045,adding host details in proxy headers,about connection release when maintaining sessions,0.16417910447761194,0
+6866,7048,adding host details in proxy headers,"cloudflare blocks my api bot, but not when i use",0.16279069767441862,0
+6866,7079,adding host details in proxy headers,feature request: add built-in logger hooks for all http requests and responses,0.13953488372093023,0
+6866,6647,adding host details in proxy headers,wrong ca certificates used in requests.session.send,0.13953488372093023,0
+6866,7018,adding host details in proxy headers,remove unused argument from urllib3 request context,0.13953488372093023,0
+6913,7022,minor quirk: more straightforward iter impl. for caseinsensitivedict,create db.py,0.13333333333333333,1
+6913,6730,minor quirk: more straightforward iter impl. for caseinsensitivedict,certificate loading regression with httpadapters in 2.32.3,0.125,1
+6913,6542,minor quirk: more straightforward iter impl. for caseinsensitivedict,cookies with are not sent for via unencrypted,0.12195121951219512,1
+6913,7048,minor quirk: more straightforward iter impl. for caseinsensitivedict,"cloudflare blocks my api bot, but not when i use",0.11904761904761904,0
+6913,7018,minor quirk: more straightforward iter impl. for caseinsensitivedict,remove unused argument from urllib3 request context,0.10638297872340426,0
+6913,6809,minor quirk: more straightforward iter impl. for caseinsensitivedict,retry hangs indefinitely for 503 status code,0.10465116279069768,0
+6913,6800,minor quirk: more straightforward iter impl. for caseinsensitivedict,attributeerror: 'request' object has no attribute 'authorize',0.10416666666666667,0
+6913,6794,minor quirk: more straightforward iter impl. for caseinsensitivedict,requests changes the url on get,0.10309278350515463,0
+6913,6823,minor quirk: more straightforward iter impl. for caseinsensitivedict,chunked put using a generator function...,0.09090909090909091,0
+6913,6835,minor quirk: more straightforward iter impl. for caseinsensitivedict,why requests.session doesn't send stored cookie?,0.08888888888888889,0
+6806,6807,fix typo in documentation for verify,what is the point of this line?,0.1111111111111111,1
+6806,7027,fix typo in documentation for verify,@ziavai777,0.1111111111111111,1
+6806,7039,fix typo in documentation for verify,type hint needed,0.07142857142857142,0
+6806,6751,fix typo in documentation for verify,requests 2.31.0 - unhashable type 'list' for 'cert' parameter,0.05714285714285714,0
+6806,6699,fix typo in documentation for verify,attributeerror: 'nonetype' object has no attribute 'setdefault' on environment p,0.05405405405405406,0
+6806,7028,fix typo in documentation for verify,tor request,0.05,0
+6806,6804,fix typo in documentation for verify,xml gets shortened when submitting a post request,0.047619047619047616,0
+6806,7001,fix typo in documentation for verify,dynamic import causing filenotfounderror in shrinkwrapped applications after dep,0.046875,0
+6806,6809,fix typo in documentation for verify,retry hangs indefinitely for 503 status code,0.046511627906976744,0
+6806,2766,fix typo in documentation for verify,document threading contract for session class,0.045871559633027525,0
+6968,6751,add trusted publishing release workflow,requests 2.31.0 - unhashable type 'list' for 'cert' parameter,0.17142857142857143,1
+6968,7018,add trusted publishing release workflow,remove unused argument from urllib3 request context,0.1276595744680851,1
+6968,6800,add trusted publishing release workflow,attributeerror: 'request' object has no attribute 'authorize',0.10416666666666667,1
+6968,6775,add trusted publishing release workflow,with setuptools 72.0.0 requests can no longer be installed from git,0.09836065573770492,0
+6968,7028,add trusted publishing release workflow,tor request,0.09375,0
+6968,7006,add trusted publishing release workflow,modulenotfounderror,0.09375,0
+6968,7055,add trusted publishing release workflow,"could not find a suitable tls ca certificate bundle, invalid path: /agents/pytho",0.09090909090909091,0
+6968,7048,add trusted publishing release workflow,"cloudflare blocks my api bot, but not when i use",0.08333333333333333,0
+6968,6794,add trusted publishing release workflow,requests changes the url on get,0.08247422680412371,0
+6968,6699,add trusted publishing release workflow,attributeerror: 'nonetype' object has no attribute 'setdefault' on environment p,0.08108108108108109,0
+6853,7047,speed up function init by 11% in src/requests/status codes.py,add response status code to httperror exception,0.1676300578034682,1
+6853,7045,speed up function init by 11% in src/requests/status codes.py,about connection release when maintaining sessions,0.15028901734104047,1
+6853,6833,speed up function init by 11% in src/requests/status codes.py,lack of respect for questions and support requests,0.1329479768786127,1
+6853,6794,speed up function init by 11% in src/requests/status codes.py,requests changes the url on get,0.12716763005780346,0
+6853,7031,speed up function init by 11% in src/requests/status codes.py,"ai bug analysis: readtimeout exception httpsconnectionpool host='domain.com', po",0.12534818941504178,0
+6853,2766,speed up function init by 11% in src/requests/status codes.py,document threading contract for session class,0.11560693641618497,0
+6853,6809,speed up function init by 11% in src/requests/status codes.py,retry hangs indefinitely for 503 status code,0.10404624277456648,0
+6853,6542,speed up function init by 11% in src/requests/status codes.py,cookies with are not sent for via unencrypted,0.09826589595375723,0
+6853,7018,speed up function init by 11% in src/requests/status codes.py,remove unused argument from urllib3 request context,0.09826589595375723,0
+6853,7001,speed up function init by 11% in src/requests/status codes.py,dynamic import causing filenotfounderror in shrinkwrapped applications after dep,0.09826589595375723,0

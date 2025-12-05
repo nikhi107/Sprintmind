@@ -1,0 +1,352 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-12-04">
+    <creator>NetworkX 3.6</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="type" type="string" />
+    </attributes>
+    <nodes>
+      <node id="dependabot[bot]" label="dependabot[bot]">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="requests/requests" label="requests/requests" />
+      <node id="stonelv" label="stonelv">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="Krishna2004V" label="Krishna2004V">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="tboy1337" label="tboy1337">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="egangi" label="egangi">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="nateprewitt" label="nateprewitt">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="vengatgs" label="vengatgs">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="akaday" label="akaday">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="Tina-1300" label="Tina-1300">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="agubelu" label="agubelu">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="FabianaCampanari" label="FabianaCampanari">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="kalledus13" label="kalledus13">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="DarthCeltic" label="DarthCeltic">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="sigmavirus24" label="sigmavirus24">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="Soul-19129" label="Soul-19129">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="graingert" label="graingert">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="papb" label="papb">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="Rosana127" label="Rosana127">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="muzamil-ashiq" label="muzamil-ashiq">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="DeathHound6" label="DeathHound6">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="hexfran" label="hexfran">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="lovelydinosaur" label="lovelydinosaur">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="hramrach" label="hramrach">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="mefi92" label="mefi92">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="moyanj" label="moyanj">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="SamanyuYN" label="SamanyuYN">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="GrantBirki" label="GrantBirki">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="sarveshdss75" label="sarveshdss75">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="AdamWill" label="AdamWill">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="jhess" label="jhess">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="branchvincent" label="branchvincent">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="ivanmilevtues" label="ivanmilevtues">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="kalingth" label="kalingth">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="SeanHgh" label="SeanHgh">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="deyjoy" label="deyjoy">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="abhi-jha" label="abhi-jha">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="killerdevildog" label="killerdevildog">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="gqwtb" label="gqwtb">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="Smarandii" label="Smarandii">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="Mohankirushna" label="Mohankirushna">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="denitdao" label="denitdao">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="LoveEatCandy" label="LoveEatCandy">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="APolevanov" label="APolevanov">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="kingbuzzman" label="kingbuzzman">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="gregory-shklover" label="gregory-shklover">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="nothingface0" label="nothingface0">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="holmanb" label="holmanb">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="eaglegai" label="eaglegai">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="domx4q" label="domx4q">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="pablospe" label="pablospe">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="HarryCaveMan" label="HarryCaveMan">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="anodo123" label="anodo123">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="HarikrishnanTechie" label="HarikrishnanTechie">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="belliriccardo" label="belliriccardo">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="jonas" label="jonas">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+      <node id="Saga4" label="Saga4">
+        <attvalues>
+          <attvalue for="0" value="developer" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="dependabot[bot]" target="requests/requests" id="0" weight="16" type="contributes" />
+      <edge source="requests/requests" target="stonelv" id="1" weight="3" type="contributes" />
+      <edge source="requests/requests" target="Krishna2004V" id="2" weight="1" type="contributes" />
+      <edge source="requests/requests" target="tboy1337" id="3" weight="7" type="contributes" />
+      <edge source="requests/requests" target="egangi" id="4" weight="1" type="contributes" />
+      <edge source="requests/requests" target="nateprewitt" id="5" weight="11" type="contributes" />
+      <edge source="requests/requests" target="vengatgs" id="6" weight="1" type="contributes" />
+      <edge source="requests/requests" target="akaday" id="7" weight="1" type="contributes" />
+      <edge source="requests/requests" target="Tina-1300" id="8" weight="1" type="contributes" />
+      <edge source="requests/requests" target="agubelu" id="9" weight="1" type="contributes" />
+      <edge source="requests/requests" target="FabianaCampanari" id="10" weight="1" type="contributes" />
+      <edge source="requests/requests" target="kalledus13" id="11" weight="1" type="contributes" />
+      <edge source="requests/requests" target="DarthCeltic" id="12" weight="1" type="contributes" />
+      <edge source="requests/requests" target="sigmavirus24" id="13" weight="3" type="contributes" />
+      <edge source="requests/requests" target="Soul-19129" id="14" weight="1" type="contributes" />
+      <edge source="requests/requests" target="graingert" id="15" weight="1" type="contributes" />
+      <edge source="requests/requests" target="papb" id="16" weight="1" type="contributes" />
+      <edge source="requests/requests" target="Rosana127" id="17" weight="1" type="contributes" />
+      <edge source="requests/requests" target="muzamil-ashiq" id="18" weight="1" type="contributes" />
+      <edge source="requests/requests" target="DeathHound6" id="19" weight="1" type="contributes" />
+      <edge source="requests/requests" target="hexfran" id="20" weight="1" type="contributes" />
+      <edge source="requests/requests" target="lovelydinosaur" id="21" weight="1" type="contributes" />
+      <edge source="requests/requests" target="hramrach" id="22" weight="1" type="contributes" />
+      <edge source="requests/requests" target="mefi92" id="23" weight="1" type="contributes" />
+      <edge source="requests/requests" target="moyanj" id="24" weight="1" type="contributes" />
+      <edge source="requests/requests" target="SamanyuYN" id="25" weight="1" type="contributes" />
+      <edge source="requests/requests" target="GrantBirki" id="26" weight="1" type="contributes" />
+      <edge source="requests/requests" target="sarveshdss75" id="27" weight="1" type="contributes" />
+      <edge source="requests/requests" target="AdamWill" id="28" weight="1" type="contributes" />
+      <edge source="requests/requests" target="jhess" id="29" weight="1" type="contributes" />
+      <edge source="requests/requests" target="branchvincent" id="30" weight="1" type="contributes" />
+      <edge source="requests/requests" target="ivanmilevtues" id="31" weight="1" type="contributes" />
+      <edge source="requests/requests" target="kalingth" id="32" weight="1" type="contributes" />
+      <edge source="requests/requests" target="SeanHgh" id="33" weight="4" type="contributes" />
+      <edge source="requests/requests" target="deyjoy" id="34" weight="1" type="contributes" />
+      <edge source="requests/requests" target="abhi-jha" id="35" weight="2" type="contributes" />
+      <edge source="requests/requests" target="killerdevildog" id="36" weight="1" type="contributes" />
+      <edge source="requests/requests" target="gqwtb" id="37" weight="1" type="contributes" />
+      <edge source="requests/requests" target="Smarandii" id="38" weight="1" type="contributes" />
+      <edge source="requests/requests" target="Mohankirushna" id="39" weight="4" type="contributes" />
+      <edge source="requests/requests" target="denitdao" id="40" weight="1" type="contributes" />
+      <edge source="requests/requests" target="LoveEatCandy" id="41" weight="1" type="contributes" />
+      <edge source="requests/requests" target="APolevanov" id="42" weight="1" type="contributes" />
+      <edge source="requests/requests" target="kingbuzzman" id="43" weight="3" type="contributes" />
+      <edge source="requests/requests" target="gregory-shklover" id="44" weight="1" type="contributes" />
+      <edge source="requests/requests" target="nothingface0" id="45" weight="1" type="contributes" />
+      <edge source="requests/requests" target="holmanb" id="46" weight="1" type="contributes" />
+      <edge source="requests/requests" target="eaglegai" id="47" weight="1" type="contributes" />
+      <edge source="requests/requests" target="domx4q" id="48" weight="1" type="contributes" />
+      <edge source="requests/requests" target="pablospe" id="49" weight="1" type="contributes" />
+      <edge source="requests/requests" target="HarryCaveMan" id="50" weight="1" type="contributes" />
+      <edge source="requests/requests" target="anodo123" id="51" weight="1" type="contributes" />
+      <edge source="requests/requests" target="HarikrishnanTechie" id="52" weight="1" type="contributes" />
+      <edge source="requests/requests" target="belliriccardo" id="53" weight="1" type="contributes" />
+      <edge source="requests/requests" target="jonas" id="54" weight="1" type="contributes" />
+      <edge source="requests/requests" target="Saga4" id="55" weight="1" type="contributes" />
+    </edges>
+  </graph>
+</gexf>
